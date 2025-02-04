@@ -1,0 +1,139 @@
+Column,Metric,Score
+state,TVComplement,0.65115763196562
+congress_district,TVComplement,0.13171504157099612
+county,TVComplement,3.4036928830971647e-09
+age,KSComplement,0.6082735847566082
+gender,TVComplement,0.924525776942158
+weight,KSComplement,0.6366833615091716
+extra_covid_worn_mask,TVComplement,0.6815978070244735
+vote_2020,TVComplement,0.7455672823218997
+pid7,TVComplement,0.8222004013082016
+worn,TVComplement,0.6756097830723777
+day,KSComplement,0.8205270725040684
+month,KSComplement,0.18702636942473883
+year,KSComplement,0.8908179419525066
+hour,KSComplement,0.658615170713981
+minute,KSComplement,0.8617752358080673
+second,KSComplement,0.5288001832746118
+All,Average Shape,0.6140557904720734
+state and congress_district,ContingencySimilarity,0.13105540897097634
+state and county,ContingencySimilarity,0.0
+state and age,ContingencySimilarity,0.31230483623781446
+state and gender,ContingencySimilarity,0.6093384734488806
+state and weight,ContingencySimilarity,0.1566391228097893
+state and extra_covid_worn_mask,ContingencySimilarity,0.5173638475028834
+state and vote_2020,ContingencySimilarity,0.49929344477272375
+state and pid7,ContingencySimilarity,0.354433507654875
+state and worn,ContingencySimilarity,0.5113993648586732
+state and day,ContingencySimilarity,0.27123157379173035
+state and month,ContingencySimilarity,0.036142069423158896
+state and year,ContingencySimilarity,0.0
+state and hour,ContingencySimilarity,0.24985954212946138
+state and minute,ContingencySimilarity,0.27389363752705675
+state and second,ContingencySimilarity,0.22194539680533387
+congress_district and county,ContingencySimilarity,0.0
+congress_district and age,ContingencySimilarity,0.016860158311345796
+congress_district and gender,ContingencySimilarity,0.06783641160949871
+congress_district and weight,ContingencySimilarity,0.003746701846965572
+congress_district and extra_covid_worn_mask,ContingencySimilarity,0.0789182058047494
+congress_district and vote_2020,ContingencySimilarity,0.05554089709762522
+congress_district and pid7,ContingencySimilarity,0.022137203166226804
+congress_district and worn,ContingencySimilarity,0.0789182058047494
+congress_district and day,ContingencySimilarity,0.014353562005276932
+congress_district and month,ContingencySimilarity,0.00456464379947219
+congress_district and year,ContingencySimilarity,0.0
+congress_district and hour,ContingencySimilarity,0.013931398416886509
+congress_district and minute,ContingencySimilarity,0.014142480211081665
+congress_district and second,ContingencySimilarity,0.012796833773087157
+county and age,ContingencySimilarity,0.0
+county and gender,ContingencySimilarity,1.1102230246251565e-16
+county and weight,ContingencySimilarity,0.0
+county and extra_covid_worn_mask,ContingencySimilarity,1.1102230246251565e-16
+county and vote_2020,ContingencySimilarity,0.0
+county and pid7,ContingencySimilarity,0.0
+county and worn,ContingencySimilarity,0.0
+county and day,ContingencySimilarity,0.0
+county and month,ContingencySimilarity,0.0
+county and year,ContingencySimilarity,0.0
+county and hour,ContingencySimilarity,0.0
+county and minute,ContingencySimilarity,0.0
+county and second,ContingencySimilarity,0.0
+age and gender,ContingencySimilarity,0.6803595974278356
+age and weight,CorrelationSimilarity,0.8562758304850464
+age and extra_covid_worn_mask,ContingencySimilarity,0.626777052754649
+age and vote_2020,ContingencySimilarity,0.5884006130219772
+age and pid7,ContingencySimilarity,0.5904294313747176
+age and worn,ContingencySimilarity,0.6222387941794512
+age and day,CorrelationSimilarity,0.9376293469303107
+age and month,CorrelationSimilarity,0.9488906557721876
+age and year,CorrelationSimilarity,
+age and hour,CorrelationSimilarity,0.9184027906659852
+age and minute,CorrelationSimilarity,0.9598987187741105
+age and second,CorrelationSimilarity,0.9703306951058456
+gender and weight,ContingencySimilarity,0.319678479452704
+gender and extra_covid_worn_mask,ContingencySimilarity,0.6815978070244735
+gender and vote_2020,ContingencySimilarity,0.7305449259791762
+gender and pid7,ContingencySimilarity,0.7726238288594316
+gender and worn,ContingencySimilarity,0.6756097830723776
+gender and day,ContingencySimilarity,0.8014977959647986
+gender and month,ContingencySimilarity,0.041916167664670656
+gender and year,ContingencySimilarity,0.0
+gender and hour,ContingencySimilarity,0.6956644494651857
+gender and minute,ContingencySimilarity,0.7523963155483229
+gender and second,ContingencySimilarity,0.5447624539838528
+weight and extra_covid_worn_mask,ContingencySimilarity,0.3026001295561911
+weight and vote_2020,ContingencySimilarity,0.25577631017648095
+weight and pid7,ContingencySimilarity,0.2731641729733145
+weight and worn,ContingencySimilarity,0.29661210560409523
+weight and day,CorrelationSimilarity,0.9743882802955715
+weight and month,CorrelationSimilarity,0.8909907330124104
+weight and year,CorrelationSimilarity,
+weight and hour,CorrelationSimilarity,0.7686434569288659
+weight and minute,CorrelationSimilarity,0.9515504912208683
+weight and second,CorrelationSimilarity,0.7835647112082644
+extra_covid_worn_mask and vote_2020,ContingencySimilarity,0.5773594236329452
+extra_covid_worn_mask and pid7,ContingencySimilarity,0.5957094781413427
+extra_covid_worn_mask and worn,ContingencySimilarity,0.6696217591202819
+extra_covid_worn_mask and day,ContingencySimilarity,0.6524391322895107
+extra_covid_worn_mask and month,ContingencySimilarity,0.041916167664670656
+extra_covid_worn_mask and year,ContingencySimilarity,0.0
+extra_covid_worn_mask and hour,ContingencySimilarity,0.5761551830376186
+extra_covid_worn_mask and minute,ContingencySimilarity,0.6454178187161297
+extra_covid_worn_mask and second,ContingencySimilarity,0.47599465975700317
+vote_2020 and pid7,ContingencySimilarity,0.6174807640655364
+vote_2020 and worn,ContingencySimilarity,0.5653833757287536
+vote_2020 and day,ContingencySimilarity,0.6316666929992258
+vote_2020 and month,ContingencySimilarity,0.041916167664670656
+vote_2020 and year,ContingencySimilarity,0.0
+vote_2020 and hour,ContingencySimilarity,0.5748471394940988
+vote_2020 and minute,ContingencySimilarity,0.6398126175090453
+vote_2020 and second,ContingencySimilarity,0.47853901695290146
+pid7 and worn,ContingencySimilarity,0.5897214541892468
+pid7 and day,ContingencySimilarity,0.6375406443050574
+pid7 and month,ContingencySimilarity,0.041916167664670656
+pid7 and year,ContingencySimilarity,0.0
+pid7 and hour,ContingencySimilarity,0.5682908062502962
+pid7 and minute,ContingencySimilarity,0.6780541292086013
+pid7 and second,ContingencySimilarity,0.47856966805175927
+worn and day,ContingencySimilarity,0.6464604300633562
+worn and month,ContingencySimilarity,0.039174948256521125
+worn and year,ContingencySimilarity,0.0
+worn and hour,ContingencySimilarity,0.5761551830376186
+worn and minute,ContingencySimilarity,0.6349642140521068
+worn and second,ContingencySimilarity,0.4700066358049074
+day and month,CorrelationSimilarity,0.8587703370863902
+day and year,CorrelationSimilarity,
+day and hour,CorrelationSimilarity,0.9296087323058926
+day and minute,CorrelationSimilarity,0.9944782385597443
+day and second,CorrelationSimilarity,0.9821827373765109
+month and year,CorrelationSimilarity,
+month and hour,CorrelationSimilarity,0.9189986803861758
+month and minute,CorrelationSimilarity,0.9301172510331036
+month and second,CorrelationSimilarity,0.9418742862348287
+year and hour,CorrelationSimilarity,
+year and minute,CorrelationSimilarity,
+year and second,CorrelationSimilarity,
+hour and minute,CorrelationSimilarity,0.9969644038740619
+hour and second,CorrelationSimilarity,0.7151537401602764
+minute and second,CorrelationSimilarity,0.9356141126782562
+All Pairs,Average Corr Similarity,0.41673220397890803
