@@ -1,0 +1,17 @@
+[
+  {
+    "synthetic_file": "airfoil-self-noise--train--16-seed0_tabpfn_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--32-seed0_tabpfn_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--8-seed0_tabpfn_default_0",
+    "validation_passed": true,
+    "issues": []
+  }
+]

@@ -1,4 +1,4 @@
-sex,length,diameter,height,whole_weight,shucked_weight,viscera_weight,shell_weight,rings
+sex,length,diameter,height,whole_weight,shucked_weight,cisvera_weight,shell_weight,rings
 M,0.587,0.457,0.163,1.053,0.497,0.245,0.283,greater than 11.0
 F,0.691,0.537,0.191,1.469,0.697,0.333,0.416,between 9.0 and 11.0
 I,0.299,0.223,0.075,0.137,0.058,0.029,0.043,less than 8.0

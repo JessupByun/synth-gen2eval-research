@@ -1,35 +1,53 @@
 [
   {
     "synthetic_file": "abalone--train--8-seed0_llama_default_0",
-    "validation_passed": true,
-    "issues": []
+    "validation_passed": false,
+    "issues": [
+      "Could not find corresponding real data for abalone--train--8-seed0_llama_default_0"
+    ]
   },
   {
     "synthetic_file": "abalone--train--128-seed0_llama_default_0",
-    "validation_passed": true,
-    "issues": []
+    "validation_passed": false,
+    "issues": [
+      "Could not find corresponding real data for abalone--train--128-seed0_llama_default_0"
+    ]
   },
   {
     "synthetic_file": "abalone--train--128-seed1_llama_default_0",
-    "validation_passed": true,
-    "issues": []
+    "validation_passed": false,
+    "issues": [
+      "Could not find corresponding real data for abalone--train--128-seed1_llama_default_0"
+    ]
   },
   {
     "synthetic_file": "abalone--train--64-seed1_llama_default_0",
     "validation_passed": false,
     "issues": [
-      "Column names do not match between real and synthetic data",
-      "Missing columns in synthetic data: {'cisvera_weight'}",
-      "Extra columns in synthetic data: {'viscera_weight'}"
+      "Could not find corresponding real data for abalone--train--64-seed1_llama_default_0"
     ]
   },
   {
-    "synthetic_file": "abalone--train--64-seed2_llama_default_0",
+    "synthetic_file": "abalone--train--64-seed0_llama_default_0",
     "validation_passed": true,
     "issues": []
   },
   {
+    "synthetic_file": "abalone--train--64-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Could not find corresponding real data for abalone--train--64-seed2_llama_default_0"
+    ]
+  },
+  {
     "synthetic_file": "abalone--train--32-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Could not find corresponding real data for abalone--train--32-seed2_llama_default_0"
+    ]
+  },
+  {
+    "synthetic_file": "abalone--train--32-seed1_llama_default_0",
     "validation_passed": true,
     "issues": []
   },
@@ -37,10 +55,13 @@
     "synthetic_file": "abalone--train--32-seed0_llama_default_0",
     "validation_passed": false,
     "issues": [
-      "Column names do not match between real and synthetic data",
-      "Missing columns in synthetic data: {'cisvera_weight'}",
-      "Extra columns in synthetic data: {'viscera_weight'}"
+      "Could not find corresponding real data for abalone--train--32-seed0_llama_default_0"
     ]
+  },
+  {
+    "synthetic_file": "abalone--train--16-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "abalone--train--16-seed0_llama_default_0",
