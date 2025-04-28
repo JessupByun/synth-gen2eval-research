@@ -1,0 +1,129 @@
+carat,cut,color,clarity,depth,table,x,y,z,price
+1.16,Ideal,G,VS1,60.9,55.0,6.79,6.84,4.15,greater than 5324.25
+0.92,Ideal,F,SI1,62.8,56.0,6.14,6.18,3.87,between 2401.0 and 5324.25
+0.7,Ideal,E,VS1,62.3,54.0,5.67,5.71,3.54,between 2401.0 and 5324.25
+1.13,Very Good,J,VS2,62.0,59.0,6.62,6.66,4.12,between 2401.0 and 5324.25
+0.32,Very Good,E,SI1,63.5,56.0,4.38,4.34,2.77,less than 950.0
+1.23,Ideal,I,SI2,62.1,56.0,6.84,6.88,4.26,between 2401.0 and 5324.25
+0.82,Ideal,E,SI2,62.6,55.0,5.94,5.98,3.73,between 2401.0 and 5324.25
+0.7,Ideal,F,SI1,61.4,57.0,5.67,5.69,3.49,between 2401.0 and 5324.25
+0.34,Ideal,D,SI1,61.2,57.0,4.48,4.51,2.75,less than 950.0
+0.7,Premium,E,SI1,62.4,60.0,5.72,5.63,3.54,between 950.0 and 2401.0
+1.0,Good,E,VS2,63.7,56.0,6.37,6.34,4.05,greater than 5324.25
+0.76,Premium,I,VS2,62.8,61.0,5.78,5.74,3.62,between 950.0 and 2401.0
+0.7,Ideal,J,VS2,61.8,53.0,5.73,5.76,3.55,between 950.0 and 2401.0
+1.55,Ideal,G,SI2,60.7,55.0,7.54,7.51,4.57,greater than 5324.25
+0.3,Very Good,D,SI1,58.8,63.0,4.32,4.35,2.55,less than 950.0
+0.32,Very Good,G,VS2,60.2,57.0,4.42,4.45,2.67,less than 950.0
+1.7,Premium,G,VVS2,61.5,60.0,7.64,7.59,4.68,greater than 5324.25
+0.26,Very Good,F,VVS2,62.6,56.0,4.09,4.11,2.56,less than 950.0
+1.02,Ideal,I,SI1,62.9,57.0,6.41,6.37,4.02,between 2401.0 and 5324.25
+0.71,Very Good,E,VS1,62.1,60.0,5.65,5.71,3.53,between 2401.0 and 5324.25
+1.21,Very Good,D,VVS2,62.4,56.0,6.76,6.83,4.24,greater than 5324.25
+0.72,Good,F,VS1,63.8,58.0,5.68,5.63,3.61,between 2401.0 and 5324.25
+0.32,Ideal,F,VS1,61.6,57.0,4.39,4.42,2.71,less than 950.0
+1.52,Very Good,J,VS2,63.3,56.0,7.33,7.27,4.62,greater than 5324.25
+1.25,Ideal,I,SI1,61.0,56.0,6.97,7.02,4.27,greater than 5324.25
+0.55,Ideal,G,VS1,60.9,55.0,5.29,5.32,3.23,between 950.0 and 2401.0
+1.62,Premium,F,VS1,61.3,57.0,7.6,7.55,4.64,greater than 5324.25
+0.31,Good,G,SI1,63.2,57.0,4.27,4.3,2.71,less than 950.0
+1.03,Ideal,F,VVS2,62.0,56.0,6.48,6.45,4.01,greater than 5324.25
+0.54,Premium,D,VS2,60.9,58.0,5.27,5.31,3.22,between 950.0 and 2401.0
+0.53,Ideal,G,VVS2,61.8,58.0,5.18,5.2,3.21,between 950.0 and 2401.0
+1.51,Good,I,SI1,63.7,58.0,7.26,7.22,4.61,greater than 5324.25
+0.48,Good,G,VS1,58.6,62.0,5.14,5.2,3.03,between 950.0 and 2401.0
+0.7,Good,F,SI1,63.8,60.0,5.6,5.63,3.58,between 2401.0 and 5324.25
+1.13,Premium,D,VS2,61.7,58.0,6.7,6.65,4.12,greater than 5324.25
+0.51,Very Good,F,VS1,62.5,54.0,5.13,5.15,3.21,between 950.0 and 2401.0
+1.26,Ideal,G,VS1,62.2,54.0,6.89,6.98,4.31,greater than 5324.25
+1.0,Premium,G,VS1,60.6,59.0,6.42,6.48,3.91,greater than 5324.25
+0.3,Premium,F,VS2,62.5,58.0,4.26,4.28,2.67,less than 950.0
+0.56,Ideal,H,VS1,62.2,55.3,5.26,5.31,3.28,between 950.0 and 2401.0
+0.85,Fair,G,VS1,57.7,67.0,6.26,6.19,3.59,between 2401.0 and 5324.25
+0.71,Ideal,I,VS1,61.3,57.0,5.73,5.76,3.52,between 2401.0 and 5324.25
+0.73,Very Good,H,VS2,63.1,57.3,5.65,5.7,3.59,between 950.0 and 2401.0
+0.72,Very Good,E,SI1,58.9,58.0,5.88,5.91,3.47,between 2401.0 and 5324.25
+0.79,Very Good,F,SI1,58.5,61.0,6.03,6.08,3.54,between 2401.0 and 5324.25
+0.72,Very Good,G,SI2,60.6,61.0,5.73,5.79,3.49,between 950.0 and 2401.0
+0.34,Very Good,G,VVS2,62.3,59.0,4.45,4.48,2.78,less than 950.0
+1.07,Ideal,H,VS2,62.1,57.0,6.53,6.49,4.04,between 2401.0 and 5324.25
+0.54,Ideal,D,VS1,61.4,53.0,5.28,5.3,3.25,between 950.0 and 2401.0
+0.7,Ideal,J,VS2,61.6,56.0,5.65,5.71,3.5,between 950.0 and 2401.0
+0.43,Premium,H,SI1,60.2,57.0,4.93,4.91,2.96,less than 950.0
+0.33,Ideal,F,VS2,62.3,56.0,4.46,4.43,2.77,less than 950.0
+0.56,Ideal,E,SI1,60.9,56.0,5.35,5.32,3.25,between 950.0 and 2401.0
+0.51,Very Good,F,SI1,61.8,57.0,5.1,5.13,3.16,between 950.0 and 2401.0
+0.33,Ideal,E,VVS1,61.7,56.0,4.42,4.46,2.74,between 950.0 and 2401.0
+1.48,Very Good,H,SI2,62.3,58.0,7.18,7.23,4.49,greater than 5324.25
+0.39,Ideal,E,VS1,59.9,57.0,4.78,4.8,2.87,less than 950.0
+0.46,Very Good,E,VS1,60.3,59.2,4.96,5.02,3.01,between 950.0 and 2401.0
+2.01,Very Good,J,SI1,62.4,59.0,8.02,8.08,5.02,greater than 5324.25
+0.73,Ideal,F,VS1,61.4,55.0,5.8,5.83,3.57,between 2401.0 and 5324.25
+0.9,Premium,G,VS2,62.8,60.0,6.14,6.08,3.84,between 2401.0 and 5324.25
+0.56,Very Good,D,VS1,60.8,60.0,5.32,5.34,3.24,between 950.0 and 2401.0
+0.3,Premium,D,SI2,62.4,58.0,4.31,4.28,2.68,less than 950.0
+1.02,Very Good,D,SI1,63.5,61.0,6.35,6.27,4.01,greater than 5324.25
+0.76,Ideal,J,SI2,61.5,54.0,5.9,5.93,3.64,between 950.0 and 2401.0
+1.51,Good,I,VVS1,64.0,60.0,7.26,7.21,4.63,greater than 5324.25
+0.61,Premium,D,VS1,62.4,57.0,5.46,5.44,3.4,between 950.0 and 2401.0
+0.9,Good,G,SI2,62.7,59.0,6.04,6.12,3.81,between 2401.0 and 5324.25
+1.03,Premium,I,VS1,60.4,59.0,6.57,6.51,3.95,between 2401.0 and 5324.25
+0.5,Fair,E,SI2,64.7,57.0,4.98,4.88,3.19,less than 950.0
+1.73,Ideal,J,VS2,63.0,57.0,7.64,7.6,4.8,greater than 5324.25
+0.42,Premium,D,SI2,62.0,59.0,4.83,4.78,2.98,less than 950.0
+0.3,Very Good,H,VVS2,62.0,56.0,4.28,4.3,2.66,less than 950.0
+1.02,Very Good,E,SI1,63.5,55.0,6.3,6.37,4.02,between 2401.0 and 5324.25
+0.9,Ideal,G,VVS1,61.5,56.0,6.22,6.24,3.83,greater than 5324.25
+1.16,Ideal,G,VS2,61.7,57.0,6.72,6.8,4.17,greater than 5324.25
+0.72,Good,G,SI1,64.0,59.0,5.59,5.63,3.59,between 950.0 and 2401.0
+1.51,Premium,J,VVS2,62.6,59.0,7.31,7.33,4.58,greater than 5324.25
+0.51,Premium,E,VS2,61.9,59.0,5.06,5.11,3.15,between 950.0 and 2401.0
+1.01,Good,H,VS2,59.6,64.0,6.53,6.45,3.87,between 2401.0 and 5324.25
+0.42,Ideal,F,VVS1,62.0,55.0,4.81,4.84,2.99,between 950.0 and 2401.0
+0.3,Ideal,E,VVS2,61.4,55.0,4.36,4.34,2.67,between 950.0 and 2401.0
+0.36,Premium,J,SI1,61.3,60.0,4.59,4.52,2.79,less than 950.0
+0.52,Very Good,E,SI2,61.1,57.0,5.2,5.24,3.19,between 950.0 and 2401.0
+0.51,Very Good,E,VS2,63.1,57.0,5.12,5.08,3.22,between 950.0 and 2401.0
+0.31,Good,G,VS2,63.4,59.0,4.29,4.32,2.73,less than 950.0
+0.7,Good,H,VS2,64.2,58.0,5.58,5.61,3.59,between 950.0 and 2401.0
+1.14,Very Good,E,SI2,60.0,54.0,6.74,6.97,4.11,greater than 5324.25
+0.51,Very Good,H,VS2,60.8,58.0,5.12,5.17,3.13,between 950.0 and 2401.0
+1.5,Premium,D,SI2,59.6,59.0,7.54,7.46,4.47,greater than 5324.25
+0.71,Very Good,H,SI1,62.9,58.0,5.62,5.66,3.55,between 950.0 and 2401.0
+1.16,Ideal,G,SI2,61.5,54.0,6.78,6.75,4.16,between 2401.0 and 5324.25
+0.7,Ideal,H,SI1,60.6,57.0,5.73,5.78,3.49,between 950.0 and 2401.0
+0.33,Ideal,E,VVS2,61.8,56.0,4.44,4.46,2.75,less than 950.0
+0.72,Fair,G,VS1,66.4,57.0,5.6,5.51,3.69,between 950.0 and 2401.0
+1.2,Ideal,J,VS2,62.2,54.0,6.84,6.8,4.24,between 2401.0 and 5324.25
+0.83,Very Good,F,SI1,63.0,55.0,5.95,5.96,3.75,between 2401.0 and 5324.25
+0.41,Ideal,F,VS1,60.8,57.0,4.8,4.77,2.91,between 950.0 and 2401.0
+0.51,Fair,F,SI1,65.2,57.0,5.03,5.09,3.3,between 950.0 and 2401.0
+0.78,Ideal,I,VS1,61.9,56.0,5.91,5.94,3.67,between 2401.0 and 5324.25
+1.5,Ideal,G,VVS2,61.3,56.0,7.39,7.43,4.55,greater than 5324.25
+0.7,Premium,E,VS1,62.9,61.0,5.65,5.57,3.53,between 2401.0 and 5324.25
+0.45,Fair,F,SI1,57.9,66.0,5.08,4.98,2.91,less than 950.0
+0.8,Very Good,F,VS1,63.8,55.0,5.84,5.89,3.74,between 2401.0 and 5324.25
+0.72,Very Good,F,SI1,63.1,55.0,5.75,5.7,3.61,between 950.0 and 2401.0
+0.54,Premium,G,SI2,61.4,59.0,5.24,5.21,3.21,between 950.0 and 2401.0
+2.29,Premium,G,SI2,62.5,59.0,8.38,8.33,5.22,greater than 5324.25
+2.01,Good,D,SI2,59.9,65.0,8.07,8.0,4.81,greater than 5324.25
+1.02,Good,F,SI2,64.1,60.0,6.25,6.29,4.02,between 2401.0 and 5324.25
+0.6,Premium,F,VVS2,61.3,59.0,5.45,5.41,3.33,between 950.0 and 2401.0
+0.36,Ideal,I,VS2,61.6,55.0,4.6,4.65,2.85,less than 950.0
+1.2,Very Good,H,I1,58.6,57.0,6.96,7.01,4.09,between 2401.0 and 5324.25
+2.1,Premium,J,SI2,59.1,58.0,8.46,8.4,4.98,greater than 5324.25
+0.51,Very Good,F,VVS2,62.0,56.0,5.1,5.15,3.17,between 950.0 and 2401.0
+0.53,Ideal,G,VS1,62.4,54.0,5.18,5.21,3.24,between 950.0 and 2401.0
+1.03,Premium,G,VS1,62.2,57.0,6.47,6.42,4.01,greater than 5324.25
+0.9,Premium,G,SI1,62.6,57.0,6.16,6.11,3.84,between 2401.0 and 5324.25
+0.31,Ideal,D,VS2,61.5,56.0,4.34,4.37,2.68,less than 950.0
+0.7,Very Good,G,SI2,58.2,63.0,5.82,5.79,3.38,between 950.0 and 2401.0
+0.55,Ideal,D,VS1,61.4,57.0,5.26,5.29,3.24,between 950.0 and 2401.0
+0.23,Premium,E,VVS1,60.8,56.0,3.99,3.94,2.41,less than 950.0
+0.45,Very Good,D,SI1,61.0,59.0,4.94,5.0,3.03,less than 950.0
+1.51,Premium,J,VS2,59.6,60.0,7.58,7.48,4.49,greater than 5324.25
+0.5,Very Good,G,VS1,61.0,58.0,5.08,5.15,3.12,between 950.0 and 2401.0
+0.3,Premium,G,VVS2,61.2,59.0,4.31,4.35,2.65,less than 950.0
+0.7,Ideal,E,SI1,62.7,55.0,5.68,5.74,3.58,between 2401.0 and 5324.25
+0.33,Ideal,E,VS2,60.5,56.0,4.48,4.51,2.72,less than 950.0
+0.54,Ideal,D,SI1,60.8,57.0,5.25,5.31,3.21,between 950.0 and 2401.0

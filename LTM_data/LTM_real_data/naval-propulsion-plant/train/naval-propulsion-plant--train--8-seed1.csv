@@ -1,0 +1,9 @@
+lever_position,ship_speed,gas_turbine_shaft_torque,gas_turbine_rate_of_revolutions,gas_generator_rate_of_revolutions,starboard_propeller_torque,port_propeller_torque,hp_turbine_exit_temperature,gt_compressor_outlet_air_temperature,hp_turbine_exit_pressure,gt_compressor_outlet_air_pressure,gas_turbine_exhaust_gas_pressure,turbine_injecton_control,fuel_flow,gt_compressor_decay_state_coefficient
+3.144,9,8375.919,1386.738,7063.762,60.317,60.317,570.222,575.199,1.391,7.449,1.021,11.68,0.231,greater than 0.988
+2.088,6,3924.507,1344.995,6789.711,22.439,22.439,550.166,565.648,1.231,6.69,1.019,22.389,0.196,between 0.962 and 0.975
+2.088,6,5538.35,1394.62,6757.882,31.573,31.573,568.251,567.428,1.298,7.042,1.02,0.0,0.208,greater than 0.988
+7.148,21,38996.456,2678.063,9123.283,332.315,332.315,823.135,688.686,2.977,15.589,1.036,43.913,0.869,between 0.975 and 0.988
+6.175,18,29761.32,2306.81,8805.797,245.913,245.913,788.023,670.955,2.508,13.377,1.03,35.121,0.695,between 0.962 and 0.975
+9.3,27,72773.156,3560.4,9754.329,644.949,644.949,1061.377,774.173,4.519,22.545,1.051,88.0,1.742,between 0.975 and 0.988
+6.175,18,29760.929,2306.777,8802.617,245.918,245.918,786.469,670.234,2.509,13.383,1.03,35.045,0.694,between 0.962 and 0.975
+7.148,21,39011.844,2677.984,9113.784,332.49,332.49,815.223,684.119,2.99,15.697,1.036,43.566,0.863,greater than 0.988

@@ -1,0 +1,9 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+12,14.0,cauc,no,northeast,no,between 308.64 and 522.32
+12,1.0,cauc,yes,south,no,less than 308.64
+12,10.0,cauc,no,south,no,between 308.64 and 522.32
+17,23.0,cauc,yes,midwest,no,greater than 783.48
+14,12.0,cauc,yes,west,no,between 522.32 and 783.48
+12,25.0,cauc,no,west,no,between 308.64 and 522.32
+13,21.0,cauc,yes,south,no,between 308.64 and 522.32
+9,18.0,cauc,no,south,no,between 308.64 and 522.32

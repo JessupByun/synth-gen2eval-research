@@ -1,0 +1,129 @@
+city,area,rooms,bathroom,parking_spaces,floor,animal,furniture,hoa,total
+Sao Paulo,200.0,3,4,1,8,not accept,furnished,2200.0,greater than 6768.0
+Sao Paulo,63.0,1,1,1,9,not accept,furnished,1283.0,greater than 6768.0
+Sao Paulo,196.0,2,3,3,8,accept,not furnished,3210.0,greater than 6768.0
+Rio de Janeiro,20.0,1,1,0,10,accept,furnished,214.0,between 2061.75 and 3581.5
+Porto Alegre,76.0,1,1,0,0,accept,not furnished,209.0,less than 2061.75
+Belo Horizonte,57.0,1,1,1,6,not accept,not furnished,1500.0,between 2061.75 and 3581.5
+Sao Paulo,34.0,1,1,0,11,not accept,not furnished,370.0,between 2061.75 and 3581.5
+Sao Paulo,33.0,1,1,1,26,not accept,furnished,1500.0,between 3581.5 and 6768.0
+Sao Paulo,16.0,1,1,0,1,not accept,not furnished,0.0,less than 2061.75
+Sao Paulo,70.0,2,1,0,0,accept,not furnished,0.0,between 2061.75 and 3581.5
+Campinas,230.0,4,4,8,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,408.0,4,6,3,20,accept,not furnished,2800.0,greater than 6768.0
+Sao Paulo,240.0,3,3,5,1,accept,not furnished,3000.0,between 3581.5 and 6768.0
+Sao Paulo,130.0,3,3,2,7,accept,not furnished,1200.0,between 3581.5 and 6768.0
+Porto Alegre,54.0,2,1,0,4,accept,not furnished,260.0,less than 2061.75
+Sao Paulo,240.0,3,4,3,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,834.0,5,5,7,0,not accept,not furnished,0.0,greater than 6768.0
+Sao Paulo,225.0,4,3,2,0,accept,furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,145.0,2,2,1,1,accept,furnished,1463.0,between 3581.5 and 6768.0
+Sao Paulo,185.0,3,3,2,5,accept,not furnished,1900.0,between 3581.5 and 6768.0
+Sao Paulo,112.0,2,3,2,2,accept,furnished,1890.0,between 3581.5 and 6768.0
+Sao Paulo,265.0,4,6,3,6,not accept,not furnished,2400.0,between 3581.5 and 6768.0
+Rio de Janeiro,20.0,1,1,0,11,not accept,furnished,0.0,less than 2061.75
+Porto Alegre,115.0,3,2,2,4,accept,not furnished,1264.0,between 3581.5 and 6768.0
+Rio de Janeiro,76.0,2,2,2,8,accept,not furnished,780.0,between 3581.5 and 6768.0
+Belo Horizonte,260.0,4,4,3,8,not accept,not furnished,1665.0,greater than 6768.0
+Sao Paulo,50.0,1,1,1,3,accept,not furnished,455.0,between 2061.75 and 3581.5
+Belo Horizonte,95.0,3,2,2,7,accept,not furnished,525.0,between 3581.5 and 6768.0
+Porto Alegre,35.0,1,1,0,0,accept,furnished,220.0,less than 2061.75
+Sao Paulo,67.0,2,1,0,12,accept,not furnished,477.0,less than 2061.75
+Sao Paulo,107.0,4,3,2,1,accept,not furnished,830.0,between 3581.5 and 6768.0
+Belo Horizonte,58.0,1,1,1,0,accept,not furnished,0.0,less than 2061.75
+Campinas,56.0,1,1,0,3,not accept,not furnished,428.0,less than 2061.75
+Sao Paulo,43.0,2,2,0,0,not accept,furnished,0.0,less than 2061.75
+Rio de Janeiro,80.0,2,2,1,2,accept,not furnished,1100.0,between 3581.5 and 6768.0
+Campinas,54.0,1,1,1,9,accept,not furnished,758.0,less than 2061.75
+Campinas,136.0,3,4,2,7,not accept,not furnished,970.0,between 3581.5 and 6768.0
+Sao Paulo,188.0,1,3,2,10,not accept,not furnished,1180.0,greater than 6768.0
+Sao Paulo,270.0,3,3,3,16,accept,not furnished,2800.0,greater than 6768.0
+Belo Horizonte,55.0,2,1,1,2,not accept,not furnished,250.0,less than 2061.75
+Sao Paulo,75.0,2,1,1,0,accept,not furnished,0.0,between 2061.75 and 3581.5
+Rio de Janeiro,90.0,2,2,1,4,accept,not furnished,1090.0,between 2061.75 and 3581.5
+Sao Paulo,520.0,4,6,4,0,accept,not furnished,0.0,greater than 6768.0
+Porto Alegre,106.0,3,2,2,2,not accept,furnished,300.0,between 3581.5 and 6768.0
+Campinas,100.0,3,2,2,0,accept,not furnished,0.0,between 2061.75 and 3581.5
+Rio de Janeiro,65.0,1,1,1,6,not accept,furnished,1100.0,between 3581.5 and 6768.0
+Campinas,210.0,3,3,0,0,accept,not furnished,0.0,between 2061.75 and 3581.5
+Sao Paulo,220.0,3,4,4,13,accept,not furnished,3354.0,greater than 6768.0
+Belo Horizonte,55.0,1,1,1,3,not accept,furnished,1250.0,between 3581.5 and 6768.0
+Rio de Janeiro,75.0,2,2,1,5,not accept,furnished,1832.0,between 3581.5 and 6768.0
+Sao Paulo,50.0,2,1,1,1,accept,not furnished,496.0,less than 2061.75
+Porto Alegre,97.0,3,3,3,5,accept,not furnished,850.0,between 3581.5 and 6768.0
+Sao Paulo,350.0,4,4,2,0,accept,not furnished,0.0,greater than 6768.0
+Sao Paulo,78.0,2,1,1,1,accept,not furnished,410.0,between 2061.75 and 3581.5
+Campinas,78.0,3,2,2,3,accept,not furnished,605.0,between 2061.75 and 3581.5
+Sao Paulo,40.0,1,1,1,4,not accept,furnished,620.0,between 3581.5 and 6768.0
+Campinas,72.0,2,1,2,16,accept,not furnished,730.0,less than 2061.75
+Sao Paulo,30.0,1,1,0,4,accept,not furnished,415.0,less than 2061.75
+Belo Horizonte,420.0,6,4,0,5,accept,not furnished,927.0,between 3581.5 and 6768.0
+Sao Paulo,48.0,2,1,0,2,accept,not furnished,100.0,less than 2061.75
+Sao Paulo,60.0,2,1,1,3,accept,furnished,600.0,between 2061.75 and 3581.5
+Rio de Janeiro,105.0,3,2,1,6,accept,not furnished,1881.0,between 3581.5 and 6768.0
+Campinas,308.0,3,3,4,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,18.0,1,1,0,0,accept,not furnished,0.0,less than 2061.75
+Sao Paulo,200.0,3,2,3,14,accept,furnished,3000.0,greater than 6768.0
+Rio de Janeiro,122.0,3,1,0,6,accept,furnished,1000.0,between 2061.75 and 3581.5
+Sao Paulo,175.0,3,3,3,8,accept,not furnished,1700.0,between 3581.5 and 6768.0
+Sao Paulo,130.0,3,3,3,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,130.0,3,2,1,1,not accept,not furnished,1144.0,between 3581.5 and 6768.0
+Sao Paulo,59.0,2,2,1,2,accept,not furnished,759.0,between 3581.5 and 6768.0
+Campinas,450.0,5,4,8,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,62.0,3,2,1,9,accept,not furnished,500.0,between 2061.75 and 3581.5
+Sao Paulo,115.0,4,4,3,2,accept,not furnished,2600.0,greater than 6768.0
+Belo Horizonte,600.0,5,5,2,0,accept,not furnished,0.0,greater than 6768.0
+Belo Horizonte,203.0,4,3,3,11,not accept,not furnished,2500.0,greater than 6768.0
+Sao Paulo,59.0,2,1,1,10,accept,not furnished,589.0,between 2061.75 and 3581.5
+Sao Paulo,38.0,1,1,1,14,not accept,furnished,1620.0,between 3581.5 and 6768.0
+Porto Alegre,35.0,1,1,0,1,accept,not furnished,230.0,less than 2061.75
+Sao Paulo,165.0,3,2,2,8,accept,furnished,1750.0,greater than 6768.0
+Porto Alegre,100.0,3,2,2,2,accept,furnished,900.0,between 2061.75 and 3581.5
+Sao Paulo,50.0,1,2,1,9,not accept,furnished,850.0,between 3581.5 and 6768.0
+Sao Paulo,142.0,3,4,3,13,accept,not furnished,1900.0,greater than 6768.0
+Belo Horizonte,50.0,2,1,2,6,accept,not furnished,220.0,less than 2061.75
+Sao Paulo,254.0,3,3,3,11,accept,furnished,4255.0,greater than 6768.0
+Sao Paulo,118.0,3,2,2,4,accept,not furnished,1520.0,greater than 6768.0
+Sao Paulo,100.0,2,1,3,0,not accept,not furnished,0.0,between 2061.75 and 3581.5
+Campinas,60.0,3,2,1,5,accept,not furnished,366.0,less than 2061.75
+Belo Horizonte,67.0,2,1,0,5,not accept,furnished,388.0,less than 2061.75
+Porto Alegre,118.0,3,2,1,3,accept,not furnished,300.0,between 2061.75 and 3581.5
+Rio de Janeiro,82.0,4,3,1,10,accept,not furnished,920.0,between 3581.5 and 6768.0
+Porto Alegre,94.0,1,1,1,2,accept,not furnished,700.0,between 3581.5 and 6768.0
+Sao Paulo,530.0,4,4,4,4,not accept,not furnished,3857.0,greater than 6768.0
+Sao Paulo,97.0,2,3,2,15,accept,not furnished,768.0,between 3581.5 and 6768.0
+Rio de Janeiro,67.0,2,1,0,4,accept,not furnished,810.0,between 2061.75 and 3581.5
+Belo Horizonte,90.0,3,2,2,7,not accept,not furnished,1080.0,between 3581.5 and 6768.0
+Porto Alegre,75.0,2,2,1,2,accept,not furnished,396.0,between 2061.75 and 3581.5
+Rio de Janeiro,100.0,3,1,1,0,accept,not furnished,495.0,between 2061.75 and 3581.5
+Sao Paulo,42.0,1,1,0,10,accept,furnished,420.0,between 2061.75 and 3581.5
+Sao Paulo,240.0,4,4,4,5,accept,not furnished,2700.0,greater than 6768.0
+Belo Horizonte,62.0,2,1,1,3,accept,not furnished,100.0,less than 2061.75
+Sao Paulo,70.0,1,2,1,16,accept,not furnished,1344.0,between 3581.5 and 6768.0
+Sao Paulo,53.0,2,1,1,11,accept,not furnished,831.0,between 2061.75 and 3581.5
+Belo Horizonte,65.0,2,2,0,3,accept,not furnished,210.0,less than 2061.75
+Belo Horizonte,345.0,3,3,0,0,not accept,furnished,0.0,between 3581.5 and 6768.0
+Porto Alegre,50.0,1,1,0,1,accept,not furnished,200.0,less than 2061.75
+Sao Paulo,115.0,4,3,4,1,accept,furnished,1133.0,greater than 6768.0
+Rio de Janeiro,102.0,3,1,1,5,accept,not furnished,1897.0,between 2061.75 and 3581.5
+Campinas,74.0,3,1,1,4,accept,not furnished,308.0,less than 2061.75
+Campinas,58.0,1,1,1,1,accept,not furnished,797.0,between 2061.75 and 3581.5
+Sao Paulo,160.0,3,2,2,18,accept,furnished,1530.0,between 3581.5 and 6768.0
+Rio de Janeiro,108.0,3,2,1,3,accept,furnished,1340.0,greater than 6768.0
+Sao Paulo,168.0,4,3,3,7,accept,not furnished,1900.0,between 3581.5 and 6768.0
+Sao Paulo,264.0,4,4,4,9,accept,not furnished,3200.0,greater than 6768.0
+Porto Alegre,300.0,3,5,3,0,accept,not furnished,0.0,between 3581.5 and 6768.0
+Sao Paulo,180.0,2,2,0,2,not accept,not furnished,0.0,between 2061.75 and 3581.5
+Belo Horizonte,65.0,2,2,1,1,not accept,not furnished,290.0,less than 2061.75
+Sao Paulo,285.0,4,5,4,6,accept,furnished,200000.0,greater than 6768.0
+Sao Paulo,32.0,1,1,0,18,accept,not furnished,330.0,less than 2061.75
+Belo Horizonte,373.0,4,5,5,7,accept,not furnished,2601.0,greater than 6768.0
+Sao Paulo,148.0,3,3,0,6,accept,not furnished,2056.0,between 3581.5 and 6768.0
+Sao Paulo,57.0,1,1,0,9,accept,furnished,300.0,between 3581.5 and 6768.0
+Rio de Janeiro,90.0,2,2,1,2,not accept,not furnished,1389.0,between 3581.5 and 6768.0
+Sao Paulo,100.0,2,2,0,0,accept,not furnished,0.0,between 2061.75 and 3581.5
+Sao Paulo,35.0,1,1,0,7,not accept,not furnished,411.0,less than 2061.75
+Sao Paulo,49.0,1,1,1,4,not accept,not furnished,486.0,between 3581.5 and 6768.0
+Rio de Janeiro,60.0,2,1,0,0,not accept,not furnished,0.0,less than 2061.75
+Rio de Janeiro,180.0,3,3,0,7,accept,furnished,916.0,greater than 6768.0
+Campinas,70.0,2,1,2,5,accept,not furnished,771.0,between 2061.75 and 3581.5

@@ -1,0 +1,17 @@
+age,height_cm,weight_kg,nationality_name,overall,potential,attacking_crossing,attacking_finishing,attacking_heading_accuracy,attacking_short_passing,attacking_volleys,skill_dribbling,skill_curve,skill_fk_accuracy,skill_long_passing,skill_ball_control,movement_acceleration,movement_sprint_speed,movement_agility,movement_reactions,movement_balance,defending_standing_tackle,defending_sliding_tackle,goalkeeping_diving,goalkeeping_handling,goalkeeping_kicking,goalkeeping_positioning,goalkeeping_reflexes,wage_eur
+35,183,79,France,62,62,50,45,63,61,52,52,58,53,56,58,34,38,34,62,51,60,56,12,12,7,6,11,less than 1000.0
+21,189,79,Turkey,61,72,11,7,12,24,7,5,14,11,28,10,17,24,32,52,38,13,14,63,59,62,58,64,between 1000.0 and 3000.0
+29,178,75,Ecuador,70,70,70,63,58,73,58,69,68,67,72,74,66,66,75,67,71,60,57,11,14,14,11,9,less than 1000.0
+32,187,80,Austria,72,72,69,70,74,73,72,70,62,42,58,69,54,63,62,78,62,39,21,12,7,14,10,9,greater than 8000.0
+18,182,68,Senegal,54,68,27,24,55,44,24,34,20,20,35,35,56,56,49,51,65,54,53,9,11,8,7,14,less than 1000.0
+20,176,58,Saudi Arabia,52,65,43,44,30,51,33,56,46,50,49,56,64,65,71,48,72,25,26,11,12,14,5,11,between 1000.0 and 3000.0
+25,194,80,New Zealand,67,71,16,18,11,27,16,20,18,12,31,27,49,49,48,68,49,13,13,67,64,54,64,69,between 1000.0 and 3000.0
+29,188,78,England,61,61,52,62,62,57,55,59,53,36,52,61,52,67,66,54,66,22,20,9,8,6,16,16,between 3000.0 and 8000.0
+25,189,83,Spain,83,87,77,79,81,84,58,83,80,69,82,84,73,75,76,84,72,84,76,9,12,9,13,14,greater than 8000.0
+31,173,68,Peru,72,72,77,65,53,75,59,72,70,69,74,69,67,62,84,73,76,63,66,7,8,16,11,7,greater than 8000.0
+18,184,70,Senegal,70,82,58,62,58,78,54,73,54,46,72,74,69,66,61,64,68,70,66,14,8,14,8,8,greater than 8000.0
+20,182,63,England,75,80,69,54,59,71,62,73,61,30,61,72,77,82,75,72,68,73,75,10,13,11,7,7,greater than 8000.0
+24,187,80,Brazil,78,85,53,22,74,72,32,69,31,35,66,71,70,75,65,78,46,79,79,14,8,13,10,9,greater than 8000.0
+30,190,90,Germany,72,72,12,13,13,27,11,17,13,16,20,18,49,46,48,69,43,10,10,72,68,64,72,74,greater than 8000.0
+25,175,73,Spain,80,81,76,79,49,79,70,80,74,75,65,81,86,79,85,79,84,64,66,14,16,8,6,13,greater than 8000.0
+25,191,85,Czech Republic,79,82,64,81,80,77,74,80,78,56,62,83,71,70,83,78,67,24,19,11,15,8,9,14,greater than 8000.0
