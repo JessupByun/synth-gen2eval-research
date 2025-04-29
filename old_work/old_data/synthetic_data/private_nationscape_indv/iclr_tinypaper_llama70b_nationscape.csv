@@ -1,0 +1,168 @@
+"response_id","start_date","state","congress_district","county","age","gender","weight","extra_covid_worn_mask","vote_2020","pid7","date","worn"
+"7711179","2020-09-15 14:30:12","Texas","TX-15","Hidalgo",32,"Male",0.817123,"Yes","Donald Trump","Lean Republican","2020-09-15",TRUE
+"6582393","2020-07-22 10:45:06","California","CA-34","Los Angeles",41,"Female",1.234567,"No","Joe Biden","Strong Democrat","2020-07-22",TRUE
+"4829110","2020-06-18 20:01:45","Florida","FL-12","Pasco",51,"Male",0.421123,"Yes","Donald Trump","Weak Republican","2020-06-18",FALSE
+"7198234","2020-11-02 12:15:38","New York","NY-14","New York",28,"Female",0.982145,"Yes","Joe Biden","Independent","2020-11-02",TRUE
+"6547392","2020-08-10 15:40:21","Georgia","GA-06","Fulton",39,"Male",0.765432,"No","Donald Trump","Lean Democrat","2020-08-10",FALSE
+"4738291","2020-06-25 11:20:05","North Carolina","NC-08","Mecklenburg",44,"Female",1.109876,"Yes","Joe Biden","Strong Democrat","2020-06-25",TRUE
+"7820395","2020-09-22 17:50:59","Illinois","IL-11","Cook",35,"Male",0.623456,"Yes","Joe Biden","Weak Democrat","2020-09-22",TRUE
+"6598512","2020-07-29 14:10:22","Michigan","MI-13","Wayne",48,"Female",0.951234,"No","Donald Trump","Lean Republican","2020-07-29",FALSE
+"4982309","2020-06-12 20:40:18","Ohio","OH-03","Franklin",29,"Male",0.531789,"Yes","Joe Biden","Independent","2020-06-12",TRUE
+"7154698","2020-10-20 12:30:04","Pennsylvania","PA-18","Allegheny",42,"Female",1.012345,"Yes","Joe Biden","Strong Democrat","2020-10-20",TRUE
+"6754932","2020-08-25 16:15:39","Arizona","AZ-06","Maricopa",36,"Male",0.892145,"No","Donald Trump","Weak Republican","2020-08-25",FALSE
+"7941587","2020-09-29 19:20:13","Wisconsin","WI-05","Waukesha",46,"Female",0.765123,"Yes","Joe Biden","Independent","2020-09-29",TRUE
+"6842391","2020-08-04 14:45:01","Minnesota","MN-05","Hennepin",31,"Male",0.421982,"Yes","Joe Biden","Strong Democrat","2020-08-04",TRUE
+"5220915","2020-06-05 20:55:44","Virginia","VA-11","Fairfax",38,"Female",0.982135,"No","Joe Biden","Lean Democrat","2020-06-05",FALSE
+"7598123","2020-09-08 17:10:49","Washington","WA-08","King",40,"Male",0.819256,"Yes","Joe Biden","Weak Democrat","2020-09-08",TRUE
+"6934182","2020-08-18 15:25:32","Colorado","CO-06","Arapahoe",34,"Female",0.951234,"Yes","Joe Biden","Independent","2020-08-18",TRUE
+"6174693","2020-07-11 20:40:58","New Jersey","NJ-12","Mercer",45,"Male",0.623456,"No","Joe Biden","Strong Democrat","2020-07-11",FALSE
+"8392794","2020-10-05 19:30:14","Massachusetts","MA-07","Middlesex",30,"Female",0.982145,"Yes","Joe Biden","Lean Democrat","2020-10-05",TRUE
+"7421938","2020-08-28 14:50:26","Maryland","MD-04","Prince George's",43,"Male",0.421982,"Yes","Joe Biden","Weak Republican","2020-08-28",TRUE
+"6187421","2020-07-15 17:20:05","Connecticut","CT-05","New Haven",39,"Female",0.109876,"No","Joe Biden","Independent","2020-07-15",FALSE
+"8214996","2020-09-24 20:45:13","Oregon","OR-03","Multnomah",36,"Male",0.765432,"Yes","Joe Biden","Strong Democrat","2020-09-24",TRUE
+"6642314","2020-08-01 15:55:49","Nevada","NV-03","Clark",41,"Female",0.982145,"Yes","Joe Biden","Weak Democrat","2020-08-01",TRUE
+"7548231","2020-09-01 19:10:28","Utah","UT-04","Salt Lake",32,"Male",0.531789,"No","Donald Trump","Lean Republican","2020-09-01",FALSE
+"6921489","2020-08-17 14:40:21","New Mexico","NM-01","Bernalillo",44,"Female",0.109876,"Yes","Joe Biden","Independent","2020-08-17",TRUE
+"8352694","2020-10-01 20:25:46","Nebraska","NE-02","Douglas",38,"Male",0.623456,"Yes","Joe Biden","Weak Democrat","2020-10-01",TRUE
+"6814192","2020-08-12 17:35:14","Kansas","KS-03","Johnson",40,"Female",0.421123,"No","Donald Trump","Lean Republican","2020-08-12",FALSE
+"7945298","2020-09-27 19:45:01","Idaho","ID-02","Ada",35,"Male",0.982145,"Yes","Joe Biden","Strong Democrat","2020-09-27",TRUE
+"7463918","2020-08-31 15:10:49","Oklahoma","OK-05","Oklahoma",42,"Female",0.109876,"Yes","Joe Biden","Weak Republican","2020-08-31",TRUE
+"6658312","2020-08-03 20:50:58","South Carolina","SC-06","Richland",36,"Male",0.765432,"No","Donald Trump","Lean Republican","2020-08-03",FALSE
+"8192695","2020-09-20 19:35:26","Mississippi","MS-02","Hinds",45,"Female",0.421982,"Yes","Joe Biden","Independent","2020-09-20",TRUE
+"7581932","2020-09-06 17:25:11","West Virginia","WV-03","Kanawha",39,"Male",0.623456,"Yes","Donald Trump","Weak Republican","2020-09-06",FALSE
+"6994185","2020-08-22 15:35:49","Arkansas","AR-02","Pulaski",34,"Female",0.982145,"Yes","Joe Biden","Strong Democrat","2020-08-22",TRUE
+"7835391","2020-09-16 20:40:59","Louisiana","LA-02","Orleans",41,"Male",0.765123,"No","Joe Biden","Weak Democrat","2020-09-16",FALSE
+"6619914","2020-08-07 15:55:39","Kentucky","KY-06","Fayette",38,"Female",0.109876,"Yes","Joe Biden","Independent","2020-08-07",TRUE
+"8043919","2020-09-29 19:50:19","Tennessee","TN-09","Shelby",36,"Male",0.421982,"Yes","Joe Biden","Weak Republican","2020-09-29",TRUE
+"6746219","2020-08-14 17:40:26","Alabama","AL-07","Jefferson",42,"Female",0.623456,"Yes","Joe Biden","Strong Democrat","2020-08-14",TRUE
+"7498192","2020-09-03 15:20:08","Montana","MT-01","Yellowstone",40,"Male",0.982145,"No","Donald Trump","Lean Republican","2020-09-03",FALSE
+"7771918","2020-09-12 20:25:43","Delaware","DE-01","New Castle",35,"Female",0.109876,"Yes","Joe Biden","Independent","2020-09-12",TRUE
+"6693295","2020-08-09 19:30:14","North Dakota","ND-01","Cass",44,"Male",0.765432,"Yes","Joe Biden","Weak Democrat","2020-08-09",TRUE
+"7856379","2020-09-18 19:15:39","South Dakota","SD-01","Minnehaha",38,"Female",0.421123,"No","Donald Trump","Lean Republican","2020-09-18",FALSE
+"7531098","2020-09-05 17:10:22","Alaska","AK-01","Anchorage",36,"Male",0.623456,"Yes","Joe Biden","Independent","2020-09-05",TRUE
+"6923582","2020-08-18 15:30:46","Hawaii","HI-01","Honolulu",41,"Female",0.982145,"Yes","Joe Biden","Strong Democrat","2020-08-18",TRUE
+"7513291","2020-09-04 20:40:26","Maine","ME-02","Cumberland",39,"Male",0.109876,"Yes","Joe Biden","Weak Democrat","2020-09-04",TRUE
+"8345919","2020-10-04 19:50:01","Rhode Island","RI-01","Providence",35,"Female",0.421982,"No","Joe Biden","Independent","2020-10-04",FALSE
+"7793294","2020-09-14 17:45:13","Vermont","VT-01","Chittenden",42,"Male",0.765123,"Yes","Joe Biden","Strong Democrat","2020-09-14",TRUE
+"6954692","2020-08-20 15:25:32","Wyoming","WY-01","Laramie",38,"Female",0.982145,"No","Donald Trump","Lean Republican","2020-08-20",FALSE
+"7839917","2020-09-17 20:10:08","New Hampshire","NH-02","Hillsborough",41,"Male",0.623456,"Yes","Joe Biden","Weak Democrat","2020-09-17",TRUE
+"7673819","2020-09-09 19:45:44","Indiana","IN-09","Monroe",36,"Female",0.109876,"Yes","Joe Biden","Independent","2020-09-09",TRUE
+"8239114","2020-09-28 19:30:57","Iowa","IA-03","Polk",40,"Male",0.421982,"Yes","Joe Biden","Strong Democrat","2020-09-28",TRUE
+"6864211","2020-08-15 17:10:22","Missouri","MO-05","Jackson",44,"Female",0.765432,"No","Donald Trump","Lean Republican","2020-08-15",FALSE
+"7584993","2020-09-06 20:20:08","Wisconsin","WI-01","Milwaukee",35,"Male",0.623456,"Yes","Joe Biden","Weak Democrat","2020-09-06",TRUE
+"7318792","2020-08-25 15:40:21","Minnesota","MN-04","Ramsey",39,"Female",0.982145,"Yes","Joe Biden","Strong Democrat","2020-08-25",TRUE
+"6919817","2020-08-19 19:50:19","Oregon","OR-04","Lane",42,"Male",0.421123,"No","Joe Biden","Independent","2020-08-19",FALSE
+"7768291","2020-09-11 20:45:13","Washington","WA-09","King",36,"Female",0.109876,"Yes","Joe Biden","Weak Democrat","2020-09-11",TRUE
+"7442918","2020-09-01 17:30:14","Colorado","CO-07","Adams",38,"Male",0.765432,"Yes","Joe Biden","Strong Democrat","2020-09-01",TRUE
+"8223395","2020-09-27 19:15:39","New York","NY-15","New York",41,"Female",0.623456,"No","Joe Biden","Independent","2020-09-27",FALSE
+"6981984","2020-08-22 15:55:49","California","CA-18","Alameda",39,"Male",0.982145,"Yes","Joe Biden","Strong Democrat","2020-08-22",TRUE
+"7891918","2020-09-21 20:25:46","Florida","FL-09","Orange",40,"Female",0.421982,"Yes","Joe Biden","Weak Republican","2020-09-21",TRUE
+"7504992","2020-09-04 19:40:26","Texas","TX-11","Travis",36,"Male",0.109876,"Yes","Joe Biden","Independent","2020-09-04",TRUE
+"7851993","2020-09-18 19:40:59","North Carolina","NC-11","Buncombe",43,"Female",0.765123,"No","Donald Trump","Lean Republican","2020-09-18",FALSE
+"6963512","2020-08-20 15:40:21","Georgia","GA-09","Fulton",38,"Male",0.982145,"Yes","Joe Biden","Strong Democrat","2020-08-20",TRUE
+"8110921","2020-09-23 20:40:59","Illinois","IL-15","Will",42,"Female",0.623456,"Yes","Joe Biden","Independent","2020-09-23",TRUE
+"7654318","2020-09-08 19:20:13","Michigan","MI-08","Ingham",36,"Male",0.421982,"No","Joe Biden","Weak Democrat","2020-09-08",FALSE
+"7285914","2020-08-24 15:25:32","New Jersey","NJ-03","Ocean",41,"Female",0.109876,"Yes","Joe Biden","Strong Democrat","2020-08-24",TRUE
+"8071919","2020-09-22 19:45:01","Virginia","VA-08","Fairfax",40,"Male",0.765432,"Yes","Joe Biden","Weak Republican","2020-09-22",TRUE
+"7562118","2020-09-05 20:10:08","Massachusetts","MA-04","Norfolk",39,"Female",0.982145,"No","Joe Biden","Independent","2020-09-05",FALSE
+"7038912","2020-08-18 19:30:14","Maryland","MD-03","Anne Arundel",43,"Male",0.623456,"Yes","Joe Biden","Strong Democrat","2020-08-18",TRUE
+"7298135","2020-08-26 15:55:39","Minnesota","MN-02","Dakota",36,"Female",0.421982,"Yes","Joe Biden","Weak Democrat","2020-08-26",TRUE
+"8156993","2020-09-25 20:30:46","Wisconsin","WI-06","Dodge",42,"Male",0.982145,"No","Joe Biden","Independent","2020-09-25",FALSE
+"7528914","2020-09-05 19:50:19","New York","NY-20","Albany",38,"Female",0.765123,"Yes","Joe Biden","Strong Democrat","2020-09-05",TRUE
+"8004391","2020-09-20 20:20:08","Pennsylvania","PA-12","Lackawanna",40,"Male",0.109876,"Yes","Joe Biden","Weak Republican","2020-09-20",TRUE
+"7599108","2020-09-07 19:15:39","Ohio","OH-16","Cuyahoga",41,"Female",0.623456,"No","Joe Biden","Independent","2020-09-07",FALSE
+"7991818","2020-09-19 20:45:13","Indiana","IN-07","Marion",36,"Male",0.421982,"Yes","Joe Biden","Strong Democrat","2020-09-19",TRUE
+"6942185","2020-08-19 15:55:39","North Dakota","ND-01","Ward",38,"Female",0.982145,"Yes","Joe Biden","Weak Democrat","2020-08-19",TRUE
+"7346919","2020-08-27 20:10:08","South Dakota","SD-01","Pennington",39,"Male",0.765432,"No","Donald Trump","Lean Republican","2020-08-27",FALSE
+"7874335","2020-09-19 20:30:46","Nebraska","NE-01","Douglas",43,"Female",0.623456,"Yes","Joe Biden","Strong Democrat","2020-09-19",TRUE
+"7223518","2020-08-23 19:20:13","Kansas","KS-04","Sedgwick",35,"Male",0.421982,"Yes","Joe Biden","Weak Republican","2020-08-23",TRUE
+"8384114","2020-10-02 20:40:59","Idaho","ID-01","Ada",42,"Female",0.109876,"No","Donald Trump","Lean Republican","2020-10-02",FALSE
+"7735891","2020-09-10 19:40:59","Oklahoma","OK-04","Cleveland",36,"Male",0.765123,"Yes","Joe Biden","Independent","2020-09-10",TRUE
+"7852694","2020-09-18 19:10:08","Connecticut","CT-05","New Haven",40,"Female",0.982145,"Yes","Joe Biden","Strong Democrat","2020-09-18",TRUE
+"7419219","2020-09-00 20:30:46","Montana","MT-01","Gallatin",38,"Male",0.421982,"No","Donald Trump","Lean Republican","2020-09-00",FALSE
+"7451893","2020-09-02 19:50:19","Delaware","DE-01","New Castle",44,"Female",0.623456,"Yes","Joe Biden","Weak Democrat","2020-09-02",TRUE
+"7901819","2020-09-21 20:10:08","New Hampshire","NH-02","Grafton",39,"Male",0.109876,"Yes","Joe Biden","Independent","2020-09-21",TRUE
+"7104695","2020-08-21 15:40:21","Wyoming","WY-01","Natrona",41,"Female",0.765432,"No","Donald Trump","Lean Republican","2020-08-21",FALSE
+"7376992","2020-08-28 20:25:46","Iowa","IA-02","Johnson",36,"Male",0.421982,"Yes","Joe Biden","Strong Democrat","2020-08-28",TRUE
+"7990134","2020-09-19 19:45:44","Missouri","MO-06","Clay",43,"Female",0.982145,"Yes","Joe Biden","Weak Republican","2020-09-19",TRUE
+"6964395","2020-08-20 19:40:26","Alabama","AL-06","Jefferson",38,"Male",0.623456,"No","Donald Trump","Lean Republican","2020-08-20",FALSE
+"7801234","2020-11-20 14:30:00","Florida","FL22","Miami-Dade",32,"Male",1.201,"Yes","Donald Trump","Weak Republican","2020-11-20",True
+"6902198","2020-09-15 10:45:00","New York","NY14","New York",41,"Female",0.812,"No","Joe Biden","Strong Democrat","2020-09-15",False
+"8504321","2020-12-10 17:10:00","Texas","TX30","Dallas",55,"Male",1.503,"Yes","Joe Biden","Lean Democrat","2020-12-10",True
+"6200987","2020-08-25 12:40:00","California","CA42","Riverside",28,"Female",0.951,"Yes","Donald Trump","Strong Republican","2020-08-25",True
+"7302194","2020-11-05 15:20:00","Illinois","IL13","Will",39,"Male",1.092,"No","Joe Biden","Weak Democrat","2020-11-05",False
+"8103421","2020-10-20 11:15:00","Georgia","GA07","Gwinnett",46,"Female",1.213,"Yes","Donald Trump","Lean Republican","2020-10-20",True
+"9505678","2020-07-22 09:50:00","North Carolina","NC08","Mecklenburg",35,"Male",0.985,"Yes","Joe Biden","Strong Democrat","2020-07-22",True
+"6802345","2020-09-10 16:05:00","Michigan","MI12","Oakland",51,"Female",1.401,"No","Donald Trump","Weak Republican","2020-09-10",False
+"8401239","2020-12-05 13:35:00","Ohio","OH16","Cuyahoga",44,"Male",1.201,"Yes","Joe Biden","Lean Democrat","2020-12-05",True
+"9204567","2020-08-15 10:10:00","Virginia","VA10","Fairfax",38,"Female",0.903,"Yes","Donald Trump","Strong Republican","2020-08-15",True
+"7601892","2020-11-25 17:45:00","Washington","WA08","King",49,"Male",1.601,"No","Joe Biden","Weak Democrat","2020-11-25",False
+"6302789","2020-09-25 14:50:00","Arizona","AZ06","Maricopa",42,"Female",1.092,"Yes","Donald Trump","Lean Republican","2020-09-25",True
+"8804561","2020-10-30 11:50:00","New Jersey","NJ05","Bergen",33,"Male",0.951,"No","Joe Biden","Strong Democrat","2020-10-30",False
+"9900123","2020-07-10 09:20:00","Colorado","CO06","Arapahoe",25,"Female",0.812,"Yes","Joe Biden","Weak Democrat","2020-07-10",True
+"8201987","2020-12-15 16:20:00","Minnesota","MN03","Hennepin",50,"Male",1.503,"No","Donald Trump","Strong Republican","2020-12-15",False
+"9406789","2020-11-10 13:10:00","South Carolina","SC02","Richland",29,"Female",0.985,"Yes","Donald Trump","Lean Republican","2020-11-10",True
+"7003456","2020-09-20 15:30:00","Alabama","AL06","Jefferson",47,"Male",1.092,"No","Joe Biden","Weak Democrat","2020-09-20",False
+"8602198","2020-10-25 10:45:00","Louisiana","LA01","Orleans",36,"Female",1.201,"Yes","Donald Trump","Strong Republican","2020-10-25",True
+"9601234","2020-07-25 11:40:00","Kentucky","KY04","Kenton",48,"Male",0.903,"No","Joe Biden","Lean Democrat","2020-07-25",False
+"7805678","2020-11-05 14:10:00","Oklahoma","OK05","Oklahoma",31,"Female",0.951,"Yes","Donald Trump","Weak Republican","2020-11-05",True
+"9002345","2020-09-15 16:20:00","Connecticut","CT05","Fairfield",40,"Male",1.213,"No","Joe Biden","Strong Democrat","2020-09-15",False
+"6401892","2020-10-20 12:15:00","Mississippi","MS04","Harrison",27,"Female",0.985,"Yes","Donald Trump","Lean Republican","2020-10-20",True
+"9500123","2020-07-15 10:30:00","West Virginia","WV03","Kanawha",52,"Male",1.092,"No","Joe Biden","Weak Democrat","2020-07-15",False
+"7503456","2020-11-25 15:50:00","New Hampshire","NH02","Hillsborough",39,"Female",0.812,"Yes","Donald Trump","Strong Republican","2020-11-25",True
+"6602198","2020-09-25 11:55:00","Delaware","DE01","New Castle",44,"Male",1.201,"No","Joe Biden","Lean Democrat","2020-09-25",False
+"9106789","2020-10-30 13:40:00","Maine","ME02","Cumberland",46,"Female",0.951,"Yes","Donald Trump","Weak Republican","2020-10-30",True
+"9304561","2020-07-22 12:10:00","Vermont","VT01","Chittenden",38,"Male",0.903,"No","Joe Biden","Strong Democrat","2020-07-22",False
+"9701234","2020-11-10 16:30:00","Rhode Island","RI02","Providence",42,"Female",1.092,"Yes","Donald Trump","Lean Republican","2020-11-10",True
+"6800123","2020-09-10 15:20:00","Arkansas","AR04","Pulaski",35,"Male",0.985,"No","Joe Biden","Weak Democrat","2020-09-10",False
+"9601892","2020-10-05 11:15:00","Utah","UT04","Salt Lake",29,"Female",0.951,"Yes","Donald Trump","Strong Republican","2020-10-05",True
+"8002345","2020-11-20 14:45:00","Nevada","NV04","Clark",49,"Male",1.213,"No","Joe Biden","Lean Democrat","2020-11-20",False
+"8805432","2020-09-20 13:10:00","Idaho","ID02","Ada",32,"Female",0.903,"Yes","Donald Trump","Weak Republican","2020-09-20",True
+"9904561","2020-07-15 10:10:00","Alaska","AK01","Anchorage",40,"Male",1.092,"No","Joe Biden","Strong Democrat","2020-07-15",False
+"9201234","2020-10-30 12:40:00","Hawaii","HI02","Honolulu",45,"Female",0.985,"Yes","Donald Trump","Lean Republican","2020-10-30",True
+"8506789","2020-11-05 15:30:00","Montana","MT01","Yellowstone",38,"Male",0.951,"No","Joe Biden","Weak Democrat","2020-11-05",False
+"9702198","2020-09-15 14:50:00","North Dakota","ND01","Cass",42,"Female",1.201,"Yes","Donald Trump","Strong Republican","2020-09-15",True
+"9300123","2020-07-25 11:20:00","South Dakota","SD01","Minnehaha",48,"Male",0.903,"No","Joe Biden","Lean Democrat","2020-07-25",False
+"6803456","2020-09-10 16:45:00","Nebraska","NE03","Lancaster",35,"Female",0.985,"Yes","Donald Trump","Weak Republican","2020-09-10",True
+"8100581","2020-09-20 12:45:00","New York","NY12","New York County",32,"Female",0.512341,"Yes","Joe Biden","Weak Democrat","2020-09-20",True
+"6719523","2020-08-10 14:30:00","Texas","TX15","Hidalgo County",41,"Male",1.023411,"No","Donald Trump","Strong Republican","2020-08-10",False
+"9301498","2020-10-25 16:15:00","California","CA35","Los Angeles County",28,"Female",0.756923,"Yes","Joe Biden","Weak Democrat","2020-10-25",True
+"1190849","2020-07-05 10:45:00","Florida","FL06","Volusia County",55,"Male",1.298765,"No","Donald Trump","Strong Republican","2020-07-05",False
+"7532194","2020-09-01 13:20:00","Illinois","IL08","Cook County",38,"Female",0.923456,"Yes","Joe Biden","Weak Democrat","2020-09-01",True
+"9643210","2020-10-12 15:50:00","Pennsylvania","PA07","Delaware County",45,"Male",1.145698,"No","Donald Trump","Strong Republican","2020-10-12",False
+"1357913","2020-07-22 12:10:00","Michigan","MI03","Kent County",29,"Female",0.649821,"Yes","Joe Biden","Weak Democrat","2020-07-22",True
+"7428521","2020-08-25 14:05:00","Georgia","GA04","Fulton County",42,"Male",1.267932,"No","Donald Trump","Strong Republican","2020-08-25",False
+"6253819","2020-09-15 16:40:00","North Carolina","NC10","Mecklenburg County",35,"Female",0.875643,"Yes","Joe Biden","Weak Democrat","2020-09-15",True
+"8172345","2020-10-05 13:35:00","Ohio","OH14","Cuyahoga County",50,"Male",1.413251,"No","Donald Trump","Strong Republican","2020-10-05",False
+"3517942","2020-07-18 11:50:00","Virginia","VA08","Fairfax County",26,"Female",0.593104,"Yes","Joe Biden","Weak Democrat","2020-07-18",True
+"2695431","2020-08-28 15:20:00","Washington","WA08","King County",39,"Male",1.082351,"No","Donald Trump","Strong Republican","2020-08-28",False
+"4638219","2020-09-22 14:10:00","Arizona","AZ06","Maricopa County",44,"Female",0.943871,"Yes","Joe Biden","Weak Democrat","2020-09-22",True
+"1374639","2020-07-12 12:45:00","Massachusetts","MA04","Norfolk County",31,"Male",0.628519,"No","Donald Trump","Strong Republican","2020-07-12",False
+"9821357","2020-10-18 16:25:00","Minnesota","MN03","Hennepin County",36,"Female",0.813649,"Yes","Joe Biden","Weak Democrat","2020-10-18",True
+"1196374","2020-08-02 14:55:00","Colorado","CO06","Arapahoe County",40,"Male",1.198235,"No","Donald Trump","Strong Republican","2020-08-02",False
+"7563821","2020-09-08 13:40:00","Alabama","AL05","Jefferson County",33,"Female",0.704192,"Yes","Joe Biden","Weak Democrat","2020-09-08",True
+"4829513","2020-07-26 11:25:00","South Carolina","SC02","Richland County",46,"Male",1.251982,"No","Donald Trump","Strong Republican","2020-07-26",False
+"1948273","2020-08-20 15:30:00","Louisiana","LA01","Orleans Parish",30,"Female",0.684219,"Yes","Joe Biden","Weak Democrat","2020-08-20",True
+"9374638","2020-10-10 14:20:00","Kentucky","KY04","Kenton County",34,"Male",0.943258,"No","Donald Trump","Strong Republican","2020-10-10",False
+"8431297","2020-09-04 16:50:00","Oklahoma","OK04","Oklahoma County",37,"Female",0.794351,"Yes","Joe Biden","Weak Democrat","2020-09-04",True
+"3947582","2020-07-29 12:15:00","Connecticut","CT04","Fairfield County",43,"Male",1.136549,"No","Donald Trump","Strong Republican","2020-07-29",False
+"2756931","2020-08-14 14:40:00","Iowa","IA02","Johnson County",27,"Female",0.625981,"Yes","Joe Biden","Weak Democrat","2020-08-14",True
+"6543982","2020-09-24 15:10:00","Mississippi","MS02","Hinds County",49,"Male",1.229179,"No","Donald Trump","Strong Republican","2020-09-24",False
+"1872391","2020-07-07 11:35:00","West Virginia","WV01","Kanawha County",25,"Female",0.571298,"Yes","Joe Biden","Weak Democrat","2020-07-07",True
+"9854673","2020-10-22 16:30:00","New Hampshire","NH01","Hillsborough County",48,"Male",1.282359,"No","Donald Trump","Strong Republican","2020-10-22",False
+"4268914","2020-08-31 14:15:00","New Jersey","NJ07","Essex County",24,"Female",0.596254,"Yes","Joe Biden","Weak Democrat","2020-08-31",True
+"2198475","2020-07-19 12:50:00","New Mexico","NM01","Bernalillo County",51,"Male",1.323467,"No","Donald Trump","Strong Republican","2020-07-19",False
+"7492831","2020-09-11 15:45:00","Nevada","NV03","Clark County",23,"Female",0.680197,"Yes","Joe Biden","Weak Democrat","2020-09-11",True
+"3648912","2020-08-06 14:25:00","Utah","UT02","Salt Lake County",39,"Male",1.091759,"No","Donald Trump","Strong Republican","2020-08-06",False
+"1826379","2020-07-24 12:20:00","Oregon","OR01","Multnomah County",26,"Female",0.634899,"Yes","Joe Biden","Weak Democrat","2020-07-24",True
+"9365278","2020-10-15 16:05:00","Wisconsin","WI05","Milwaukee County",40,"Male",1.201895,"No","Donald Trump","Strong Republican","2020-10-15",False
+"4963281","2020-08-18 14:50:00","Idaho","ID01","Ada County",32,"Female",0.726843,"Yes","Joe Biden","Weak Democrat","2020-08-18",True
+"2836194","2020-07-10 11:40:00","Maine","ME01","Cumberland County",44,"Male",1.248793,"No","Donald Trump","Strong Republican","2020-07-10",False
+"8572932","2020-09-06 15:30:00","Rhode Island","RI01","Providence County",30,"Female",0.683392,"Yes","Joe Biden","Weak Democrat","2020-09-06",True
+"3947219","2020-08-04 14:10:00","Delaware","DE01","New Castle County",36,"Male",1.032945,"No","Donald Trump","Strong Republican","2020-08-04",False
+"1478231","2020-07-17 12:05:00","Montana","MT01","Yellowstone County",38,"Female",0.750382,"Yes","Joe Biden","Weak Democrat","2020-07-17",True
+"6273849","2020-09-26 15:55:00","North Dakota","ND01","Cass County",41,"Male",1.193475,"No","Donald Trump","Strong Republican","2020-09-26",False
+"2754672","2020-08-08 14:35:00","South Dakota","SD01","Minnehaha County",33,"Female",0.716921,"Yes","Joe Biden","Weak Democrat","2020-08-08",True
+"9357912","2020-10-20 16:00:00","Alaska","AK01","Anchorage Municipality",48,"Male",1.284759,"No","Donald Trump","Strong Republican","2020-10-20",False
+"1842791","2020-07-16 11:55:00","Vermont","VT01","Chittenden County",27,"Female",0.648209,"Yes","Joe Biden","Weak Democrat","2020-07-16",True
+"7492519","2020-09-09 15:20:00","Wyoming","WY01","Laramie County",45,"Male",1.256384,"No","Donald Trump","Strong Republican","2020-09-09",False

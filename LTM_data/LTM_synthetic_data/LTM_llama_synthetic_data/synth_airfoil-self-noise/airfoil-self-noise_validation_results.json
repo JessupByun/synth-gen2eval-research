@@ -1,6 +1,51 @@
 [
   {
+    "synthetic_file": "airfoil-self-noise--train--16-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--16-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
     "synthetic_file": "airfoil-self-noise--train--16-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--128-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--64-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--128-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--64-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--64-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--128-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--32-seed2_llama_default_0",
     "validation_passed": true,
     "issues": []
   },
@@ -10,7 +55,22 @@
     "issues": []
   },
   {
+    "synthetic_file": "airfoil-self-noise--train--32-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--8-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
     "synthetic_file": "airfoil-self-noise--train--8-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "airfoil-self-noise--train--8-seed1_llama_default_0",
     "validation_passed": true,
     "issues": []
   }
