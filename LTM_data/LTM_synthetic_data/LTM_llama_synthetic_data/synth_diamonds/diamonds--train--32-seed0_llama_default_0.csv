@@ -1,0 +1,33 @@
+carat,cut,color,clarity,depth,table,x,y,z,price
+0.51,Premium,E,SI1,61.4,58.0,5.13,5.08,3.17,between 950.0 and 2401.0
+1.35,Ideal,G,VS1,62.3,55.0,6.92,6.98,4.29,greater than 5324.25
+0.75,Very Good,D,VS2,60.6,57.0,5.62,5.67,3.59,between 950.0 and 2401.0
+0.29,Good,F,VVS2,62.9,56.0,4.21,4.24,2.63,less than 950.0
+0.97,Ideal,I,SI2,61.9,54.0,6.27,6.22,3.98,between 2401.0 and 5324.25
+0.39,Premium,J,VS1,63.1,60.0,4.83,4.88,2.95,between 950.0 and 2401.0
+0.73,Very Good,E,SI1,62.5,57.0,5.49,5.53,3.41,between 2401.0 and 5324.25
+1.48,Ideal,D,VVS2,61.8,57.0,7.18,7.13,4.49,greater than 5324.25
+0.59,Good,G,VS2,60.4,58.0,5.31,5.36,3.33,between 950.0 and 2401.0
+0.85,Ideal,F,SI1,62.2,56.0,5.95,6.0,3.75,between 2401.0 and 5324.25
+0.63,Premium,I,VS1,61.6,55.0,5.41,5.46,3.39,between 950.0 and 2401.0
+1.29,Very Good,D,SI2,62.8,59.0,6.81,6.86,4.25,greater than 5324.25
+0.49,Good,E,VS1,63.4,56.0,4.97,5.0,3.03,between 950.0 and 2401.0
+1.01,Ideal,J,SI1,62.0,57.0,6.39,6.34,4.01,greater than 5324.25
+0.68,Premium,F,VS2,61.3,60.0,5.55,5.51,3.47,between 2401.0 and 5324.25
+0.82,Very Good,G,SI1,62.4,54.0,5.85,5.89,3.66,between 2401.0 and 5324.25
+0.36,Good,D,VVS2,61.1,63.0,4.59,4.63,2.83,less than 950.0
+1.19,Ideal,E,SI2,61.5,57.0,6.58,6.53,4.13,greater than 5324.25
+0.94,Good,F,VS1,62.9,56.0,6.16,6.12,3.89,between 2401.0 and 5324.25
+0.41,Premium,I,VS1,60.8,60.0,4.85,4.89,2.99,between 950.0 and 2401.0
+1.44,Very Good,J,VS2,61.9,56.0,7.05,7.01,4.44,greater than 5324.25
+0.56,Good,G,SI1,63.3,58.0,5.24,5.28,3.26,between 950.0 and 2401.0
+0.89,Ideal,D,SI1,62.6,55.0,6.04,6.0,3.79,between 2401.0 and 5324.25
+0.61,Premium,E,VS1,61.9,57.0,5.38,5.33,3.31,between 950.0 and 2401.0
+1.22,Very Good,F,VVS2,62.3,59.0,6.69,6.74,4.22,greater than 5324.25
+0.45,Good,I,VS2,60.9,63.0,4.93,4.97,3.01,between 950.0 and 2401.0
+0.99,Ideal,J,SI2,62.1,56.0,6.33,6.29,4.0,greater than 5324.25
+0.67,Premium,G,SI1,61.4,55.0,5.51,5.47,3.44,between 950.0 and 2401.0
+0.8,Very Good,D,SI1,62.7,56.0,5.79,5.76,3.63,between 2401.0 and 5324.25
+0.35,Good,E,VS1,63.6,57.0,4.51,4.55,2.79,less than 950.0
+1.09,Ideal,F,SI1,61.7,54.0,6.46,6.42,3.99,between 2401.0 and 5324.25
+0.58,Good,G,VS2,60.6,60.0,5.28,5.33,3.29,between 950.0 and 2401.0

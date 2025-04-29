@@ -1,0 +1,17 @@
+age,height_cm,weight_kg,nationality_name,overall,potential,attacking_crossing,attacking_finishing,attacking_heading_accuracy,attacking_short_passing,attacking_volleys,skill_dribbling,skill_curve,skill_fk_accuracy,skill_long_passing,skill_ball_control,movement_acceleration,movement_sprint_speed,movement_agility,movement_reactions,movement_balance,defending_standing_tackle,defending_sliding_tackle,goalkeeping_diving,goalkeeping_handling,goalkeeping_kicking,goalkeeping_positioning,goalkeeping_reflexes,wage_eur
+25,179,74,England,66,72,53,46,60,62,52,64,58,42,59,63,70,78,72,60,65,50,45,12,10,9,8,11,between 3000.0 and 8000.0
+22,181,78,France,70,74,60,50,65,65,55,67,62,48,61,66,75,80,75,58,70,55,50,8,12,10,9,10,between 3000.0 and 8000.0
+28,185,80,Germany,73,76,58,52,62,68,56,70,65,50,64,70,72,82,78,60,75,60,55,10,14,12,11,12,greater than 8000.0
+31,176,72,Italy,68,70,55,48,60,60,50,62,55,45,58,62,70,75,70,55,65,50,45,9,11,10,9,10,between 3000.0 and 8000.0
+20,180,75,Brazil,65,75,55,45,55,60,50,60,55,40,55,60,75,80,75,55,70,45,40,8,10,9,8,9,between 3000.0 and 8000.0
+24,184,79,Argentina,72,74,60,50,65,65,55,68,62,50,62,66,75,80,75,58,70,55,50,10,12,11,10,11,between 3000.0 and 8000.0
+26,182,76,Spain,67,69,55,45,60,60,50,63,58,45,58,62,70,75,70,55,65,50,45,9,11,10,9,10,between 3000.0 and 8000.0
+30,179,73,England,69,72,58,52,62,65,55,65,60,48,61,65,72,80,75,60,70,60,55,10,14,12,11,12,greater than 8000.0
+21,183,77,France,71,74,60,50,65,65,55,69,63,50,64,67,75,82,78,58,70,55,50,8,12,10,9,10,between 3000.0 and 8000.0
+27,181,75,Germany,68,70,55,45,60,60,50,62,55,45,58,62,70,75,70,55,65,50,45,9,11,10,9,10,between 3000.0 and 8000.0
+23,185,80,Brazil,73,76,60,52,65,68,56,70,65,50,64,70,72,82,78,60,75,60,55,10,14,12,11,12,greater than 8000.0
+29,176,72,Italy,67,69,55,45,60,60,50,63,58,45,58,62,70,75,70,55,65,50,45,9,11,10,9,10,between 3000.0 and 8000.0
+32,180,78,Argentina,70,72,58,50,62,65,55,65,60,48,61,65,72,80,75,60,70,60,55,10,14,12,11,12,greater than 8000.0
+19,184,77,Spain,66,69,55,45,60,60,50,61,55,45,58,61,70,75,70,55,65,50,45,8,10,9,8,9,between 3000.0 and 8000.0
+24,183,76,England,69,72,60,52,65,65,55,67,62,50,62,66,75,80,75,58,70,55,50,10,12,11,10,11,between 3000.0 and 8000.0
+28,182,75,France,67,69,55,45,60,60,50,62,55,45,58,62,70,75,70,55,65,50,45,9,11,10,9,10,between 3000.0 and 8000.0

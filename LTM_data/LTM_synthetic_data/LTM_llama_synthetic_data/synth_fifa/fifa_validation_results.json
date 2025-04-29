@@ -1,0 +1,122 @@
+[
+  {
+    "synthetic_file": "fifa--train--128-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--128-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--128-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--16-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--16-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--8-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column wage_eur has missing values in synthetic data but not in real data",
+      "Column goalkeeping_reflexes has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "fifa--train--8-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--16-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--8-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column goalkeeping_reflexes has missing values in synthetic data but not in real data",
+      "Column wage_eur has missing values in synthetic data but not in real data",
+      "Column goalkeeping_reflexes is empty in synthetic data",
+      "Column wage_eur is empty in synthetic data",
+      "Column goalkeeping_positioning has different data type in synthetic data (object) vs real data (int64)",
+      "Column wage_eur has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "fifa--train--32-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--32-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--32-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "fifa--train--64-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column wage_eur has missing values in synthetic data but not in real data",
+      "Column goalkeeping_reflexes has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "fifa--train--64-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column names do not match between real and synthetic data",
+      "Extra columns in synthetic data: {'69', '11', '84', '60.1', 'between 3000.0 and 8000.0', '76', '51', '78', '44', '14', '9', '59.1', '8', '61', '73', '80', '69.2', '66', '60', '81', '22', '66.1', 'Germany', '60.2', '63', '59', '13', '186', '69.1'}",
+      "Column age has missing values in synthetic data but not in real data",
+      "Column height_cm has missing values in synthetic data but not in real data",
+      "Column weight_kg has missing values in synthetic data but not in real data",
+      "Column nationality_name has missing values in synthetic data but not in real data",
+      "Column overall has missing values in synthetic data but not in real data",
+      "Column potential has missing values in synthetic data but not in real data",
+      "Column attacking_crossing has missing values in synthetic data but not in real data",
+      "Column attacking_finishing has missing values in synthetic data but not in real data",
+      "Column attacking_heading_accuracy has missing values in synthetic data but not in real data",
+      "Column attacking_short_passing has missing values in synthetic data but not in real data",
+      "Column attacking_volleys has missing values in synthetic data but not in real data",
+      "Column skill_dribbling has missing values in synthetic data but not in real data",
+      "Column skill_curve has missing values in synthetic data but not in real data",
+      "Column skill_fk_accuracy has missing values in synthetic data but not in real data",
+      "Column skill_long_passing has missing values in synthetic data but not in real data",
+      "Column skill_ball_control has missing values in synthetic data but not in real data",
+      "Column movement_acceleration has missing values in synthetic data but not in real data",
+      "Column movement_sprint_speed has missing values in synthetic data but not in real data",
+      "Column movement_agility has missing values in synthetic data but not in real data",
+      "Column movement_reactions has missing values in synthetic data but not in real data",
+      "Column movement_balance has missing values in synthetic data but not in real data",
+      "Column defending_standing_tackle has missing values in synthetic data but not in real data",
+      "Column defending_sliding_tackle has missing values in synthetic data but not in real data",
+      "Column goalkeeping_diving has missing values in synthetic data but not in real data",
+      "Column goalkeeping_handling has missing values in synthetic data but not in real data",
+      "Column goalkeeping_kicking has missing values in synthetic data but not in real data",
+      "Column goalkeeping_positioning has missing values in synthetic data but not in real data",
+      "Column goalkeeping_reflexes has missing values in synthetic data but not in real data",
+      "Column wage_eur has missing values in synthetic data but not in real data"
+    ]
+  },
+  {
+    "synthetic_file": "fifa--train--64-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  }
+]

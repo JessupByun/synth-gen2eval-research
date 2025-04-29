@@ -1,0 +1,9 @@
+carat,cut,color,clarity,depth,table,x,y,z,price
+0.97,Ideal,F,SI2,61.9,55.0,6.35,6.29,3.88,between 2401.0 and 5324.25
+1.23,Premium,E,SI1,62.5,57.0,7.23,7.19,4.31,greater than 5324.25
+0.68,Good,D,IF,63.1,56.0,5.45,5.42,3.21,less than 950.0
+1.42,Ideal,G,VS1,61.5,58.0,7.05,6.99,4.23,greater than 5324.25
+0.85,Very Good,J,SI2,62.9,55.0,6.01,5.96,3.69,between 950.0 and 2401.0
+1.08,Ideal,I,SI1,60.8,57.0,6.69,6.65,3.93,between 2401.0 and 5324.25
+0.51,Premium,F,SI2,64.0,55.0,4.95,4.91,2.97,less than 950.0
+0.92,Good,E,IF,61.2,56.0,6.43,6.39,3.86,between 2401.0 and 5324.25

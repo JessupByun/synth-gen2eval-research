@@ -1,0 +1,9 @@
+city,area,rooms,bathroom,parking_spaces,floor,animal,furniture,hoa,total
+Sao Paulo,68.0,1,1,1,7,not accept,furnished,1100.0,between 2061.75 and 3581.5
+Rio de Janeiro,25.0,1,1,0,5,accept,furnished,321.0,between 2061.75 and 3581.5
+Sao Paulo,192.0,3,4,1,10,not accept,furnished,2678.0,greater than 6768.0
+Porto Alegre,79.0,1,1,1,3,accept,not furnished,451.0,less than 2061.75
+Sao Paulo,30.0,1,1,0,8,not accept,not furnished,1020.0,between 2061.75 and 3581.5
+Belo Horizonte,50.0,1,1,1,4,not accept,furnished,1350.0,between 2061.75 and 3581.5
+Sao Paulo,160.0,2,3,3,9,accept,not furnished,3090.0,greater than 6768.0
+Porto Alegre,93.0,1,1,0,2,accept,furnished,420.0,less than 2061.75

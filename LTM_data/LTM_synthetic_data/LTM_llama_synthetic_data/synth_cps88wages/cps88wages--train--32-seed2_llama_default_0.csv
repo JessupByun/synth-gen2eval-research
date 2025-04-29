@@ -1,0 +1,33 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+12,5.0,cauc,yes,northeast,no,between 308.64 and 522.32
+15,22.0,cauc,no,west,no,greater than 783.48
+14,11.0,cauc,yes,south,no,between 522.32 and 783.48
+17,7.0,cauc,yes,west,yes,between 308.64 and 522.32
+10,20.0,cauc,yes,northeast,no,between 308.64 and 522.32
+18,9.0,cauc,no,midwest,no,between 308.64 and 522.32
+12,16.0,cauc,yes,west,no,between 522.32 and 783.48
+16,4.0,cauc,yes,south,no,between 308.64 and 522.32
+14,18.0,cauc,no,west,no,between 522.32 and 783.48
+16,10.0,cauc,yes,northeast,no,between 308.64 and 522.32
+12,6.0,cauc,yes,west,yes,less than 308.64
+13,21.0,cauc,no,south,no,between 522.32 and 783.48
+10,15.0,cauc,yes,west,yes,between 308.64 and 522.32
+16,8.0,cauc,yes,midwest,no,between 308.64 and 522.32
+12,19.0,cauc,yes,south,no,between 522.32 and 783.48
+15,12.0,cauc,yes,west,no,between 308.64 and 522.32
+12,3.0,cauc,yes,northeast,no,between 308.64 and 522.32
+12,25.0,cauc,yes,south,yes,between 308.64 and 522.32
+18,6.0,cauc,no,west,no,between 308.64 and 522.32
+10,9.0,cauc,yes,west,yes,less than 308.64
+17,16.0,cauc,yes,west,no,between 522.32 and 783.48
+14,7.0,cauc,yes,south,no,between 308.64 and 522.32
+10,14.0,cauc,yes,northeast,no,between 308.64 and 522.32
+16,5.0,cauc,yes,midwest,no,between 308.64 and 522.32
+12,11.0,cauc,yes,west,yes,between 308.64 and 522.32
+15,20.0,cauc,no,west,no,between 522.32 and 783.48
+13,18.0,cauc,yes,south,no,between 522.32 and 783.48
+12,9.0,cauc,yes,northeast,no,between 308.64 and 522.32
+14,15.0,cauc,yes,west,no,between 308.64 and 522.32
+18,7.0,cauc,no,midwest,no,between 308.64 and 522.32
+16,12.0,cauc,yes,west,yes,between 308.64 and 522.32
+10,6.0,cauc,yes,west,yes,less than 308.64

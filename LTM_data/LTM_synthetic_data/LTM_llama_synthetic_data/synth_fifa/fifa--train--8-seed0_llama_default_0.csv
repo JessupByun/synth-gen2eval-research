@@ -1,0 +1,9 @@
+age,height_cm,weight_kg,nationality_name,overall,potential,attacking_crossing,attacking_finishing,attacking_heading_accuracy,attacking_short_passing,attacking_volleys,skill_dribbling,skill_curve,skill_fk_accuracy,skill_long_passing,skill_ball_control,movement_acceleration,movement_sprint_speed,movement_agility,movement_reactions,movement_balance,defending_standing_tackle,defending_sliding_tackle,goalkeeping_diving,goalkeeping_handling,goalkeeping_kicking,goalkeeping_positioning,goalkeeping_reflexes,wage_eur
+20,176,70,Argentina,56,71,41,38,35,46,39,51,46,31,48,43,54,69,64,42,53,13,8,10,12,10,between 1000.0 and 3000.0,,
+25,186,80,Scotland,65,69,53,49,48,56,51,58,53,39,54,51,60,66,73,53,64,10,11,12,13,11,between 1000.0 and 3000.0,,
+29,179,74,Korea Republic,61,66,45,42,40,50,45,52,47,34,51,45,56,67,69,48,59,14,10,11,13,12,between 1000.0 and 3000.0,,
+22,182,75,Belgium,58,70,43,40,38,48,42,53,48,33,50,44,58,70,71,47,58,12,9,10,11,9,between 1000.0 and 3000.0,,
+27,178,73,China PR,60,68,48,45,43,52,48,55,51,36,53,48,59,68,72,50,62,11,12,13,14,13,between 1000.0 and 3000.0,,
+24,185,79,Ecuador,63,72,51,48,46,54,51,57,54,40,55,52,61,69,74,52,65,13,14,15,16,15,between 3000.0 and 8000.0,,
+26,180,76,Australia,59,69,46,43,41,50,46,54,49,35,52,46,57,67,70,49,60,10,11,12,13,12,between 1000.0 and 3000.0,,
+30,181,78,Argentina,66,75,55,52,50,58,55,61,58,44,58,55,63,71,75,55,67,14,15,16,17,16,between 3000.0 and 8000.0,,

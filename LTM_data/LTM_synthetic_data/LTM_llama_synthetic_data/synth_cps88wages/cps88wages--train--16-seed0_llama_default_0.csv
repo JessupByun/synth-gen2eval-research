@@ -1,0 +1,17 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+12,14.0,cauc,yes,south,no,between 308.64 and 522.32
+16,20.0,cauc,no,west,yes,less than 308.64
+12,22.0,cauc,yes,midwest,no,between 308.64 and 522.32
+12,11.0,cauc,yes,south,no,greater than 783.48
+15,7.0,cauc,yes,west,yes,less than 308.64
+14,16.0,cauc,no,south,no,between 308.64 and 522.32
+9,6.0,cauc,yes,midwest,yes,between 308.64 and 522.32
+17,38.0,cauc,yes,south,no,greater than 783.48
+16,4.0,cauc,yes,west,yes,between 522.32 and 783.48
+12,36.0,cauc,yes,south,no,between 308.64 and 522.32
+16,21.0,cauc,yes,south,yes,between 308.64 and 522.32
+14,8.0,cauc,yes,west,yes,greater than 783.48
+7,32.0,cauc,yes,midwest,no,between 522.32 and 783.48
+13,10.0,cauc,yes,south,yes,less than 308.64
+16,5.0,cauc,yes,south,yes,between 308.64 and 522.32
+12,24.0,cauc,yes,west,yes,greater than 783.48

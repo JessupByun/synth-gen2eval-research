@@ -1,0 +1,9 @@
+relative_compactness,surface_area,wall_area,roof_area,overall_height,orientation,glazing_area,glazing_area_distribution,heating_load
+0.698,675.25,299.25,189.75,3.5,2,0.2125,4,between 12.9925 and 18.95
+0.752,753.25,305.5,165.25,7.0,4,0.2875,3,greater than 31.6675
+0.828,623.0,281.75,154.5,3.5,3,0.2375,2,between 18.95 and 31.6675
+0.654,819.0,349.25,217.5,3.5,5,0.1625,5,between 12.9925 and 18.95
+0.772,661.75,314.0,198.0,7.0,2,0.275,1,less than 12.9925
+0.684,746.5,335.5,192.5,3.5,4,0.225,5,between 12.9925 and 18.95
+0.786,632.75,298.25,157.0,7.0,3,0.2125,4,between 18.95 and 31.6675
+0.642,794.75,355.0,209.0,3.5,5,0.2375,3,between 12.9925 and 18.95
