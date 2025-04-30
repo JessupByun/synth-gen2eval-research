@@ -1,0 +1,129 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+17.245167,13.171157,cauc,yes,midwest,no,greater than 783.48
+14.983145,23.187159,cauc,yes,west,no,greater than 783.48
+15.998696,1.0534254,cauc,yes,west,yes,less than 308.64
+13.100702,3.0357301,cauc,no,west,no,between 308.64 and 522.32
+8.934795,19.9634,cauc,yes,northeast,no,between 308.64 and 522.32
+17.334654,17.5994,cauc,yes,midwest,no,between 522.32 and 783.48
+13.91638,15.626517,cauc,yes,northeast,no,greater than 783.48
+9.142106,16.289646,afam,yes,northeast,no,between 308.64 and 522.32
+13.062677,2.5712054,cauc,yes,south,no,less than 308.64
+14.070393,2.3396277,afam,yes,west,no,less than 308.64
+11.964375,2.128067,cauc,yes,west,no,less than 308.64
+15.048614,32.52493,afam,yes,midwest,no,between 522.32 and 783.48
+14.033913,15.999563,cauc,yes,west,no,greater than 783.48
+9.964179,14.569031,cauc,yes,south,no,between 308.64 and 522.32
+16.014801,8.802023,cauc,yes,west,no,between 522.32 and 783.48
+13.95073,1.8668121,cauc,yes,south,no,less than 308.64
+16.039833,-1.4089069,cauc,yes,west,no,less than 308.64
+14.014974,38.1933,cauc,yes,south,no,greater than 783.48
+14.160137,27.400387,cauc,yes,midwest,no,greater than 783.48
+13.881696,26.091644,cauc,yes,midwest,no,greater than 783.48
+13.930138,4.7825055,cauc,yes,northeast,no,between 308.64 and 522.32
+11.143338,30.21683,cauc,yes,south,no,between 308.64 and 522.32
+15.922887,8.7381,cauc,yes,midwest,no,between 522.32 and 783.48
+17.92356,22.316645,cauc,yes,west,no,greater than 783.48
+14.042945,7.037655,cauc,yes,west,no,between 522.32 and 783.48
+11.108609,21.569149,cauc,yes,midwest,no,between 308.64 and 522.32
+12.054098,31.088795,cauc,yes,south,no,between 522.32 and 783.48
+16.98282,19.545729,cauc,yes,midwest,no,between 308.64 and 522.32
+15.978661,33.34033,cauc,yes,northeast,no,greater than 783.48
+15.070712,20.113825,cauc,yes,south,no,between 522.32 and 783.48
+14.935451,6.5182223,cauc,yes,west,no,greater than 783.48
+11.963913,37.910378,cauc,yes,midwest,no,between 522.32 and 783.48
+11.989925,15.590826,cauc,no,south,no,between 308.64 and 522.32
+12.022355,16.969763,afam,yes,midwest,no,between 308.64 and 522.32
+8.115209,37.31585,cauc,yes,west,no,between 522.32 and 783.48
+13.068908,11.626074,cauc,yes,northeast,no,greater than 783.48
+8.172999,30.242962,cauc,yes,south,no,greater than 783.48
+13.987751,12.086258,cauc,yes,midwest,no,between 522.32 and 783.48
+14.063923,26.266525,cauc,yes,west,no,greater than 783.48
+12.049354,25.369028,afam,no,west,no,between 522.32 and 783.48
+12.984274,26.476128,cauc,yes,northeast,no,greater than 783.48
+11.997282,22.540197,cauc,yes,south,no,between 308.64 and 522.32
+12.039387,5.909032,cauc,yes,west,no,greater than 783.48
+15.940688,39.95891,cauc,yes,west,no,greater than 783.48
+11.948984,16.014174,cauc,yes,midwest,no,between 308.64 and 522.32
+13.987673,20.302084,cauc,yes,midwest,no,greater than 783.48
+15.919924,28.489923,afam,yes,south,no,greater than 783.48
+13.990043,26.138893,cauc,yes,west,no,between 522.32 and 783.48
+11.999716,-3.123633,cauc,yes,south,no,less than 308.64
+12.0091095,2.8665504,afam,yes,west,no,less than 308.64
+12.000182,4.471811,cauc,yes,south,no,less than 308.64
+15.974255,3.1212616,cauc,yes,northeast,no,between 308.64 and 522.32
+13.013499,21.48645,afam,yes,south,no,greater than 783.48
+12.025819,5.8266134,cauc,yes,northeast,no,between 308.64 and 522.32
+16.964176,2.8224418,cauc,yes,south,yes,between 308.64 and 522.32
+13.928257,26.74582,cauc,yes,northeast,no,greater than 783.48
+13.939561,9.942735,cauc,yes,south,no,between 308.64 and 522.32
+13.967703,2.8488703,cauc,yes,midwest,no,between 522.32 and 783.48
+13.920172,7.3700013,cauc,yes,midwest,no,greater than 783.48
+14.009574,28.751274,cauc,yes,west,no,greater than 783.48
+12.034345,15.116096,cauc,yes,south,no,between 308.64 and 522.32
+15.085563,1.1086524,cauc,yes,midwest,no,less than 308.64
+12.994443,8.810238,cauc,no,south,no,between 522.32 and 783.48
+14.030546,23.96501,cauc,yes,south,no,between 522.32 and 783.48
+14.004043,5.7365403,cauc,yes,west,no,between 308.64 and 522.32
+12.010804,10.596875,cauc,no,south,no,less than 308.64
+8.151341,24.146296,cauc,no,midwest,no,less than 308.64
+11.99977,20.619184,cauc,yes,south,no,less than 308.64
+11.955491,14.993081,cauc,yes,northeast,no,greater than 783.48
+7.9019747,34.605747,cauc,yes,midwest,no,between 308.64 and 522.32
+13.986987,5.933962,afam,yes,south,no,greater than 783.48
+15.990944,10.875368,cauc,no,south,no,between 522.32 and 783.48
+12.0340185,-1.9609438,cauc,yes,midwest,no,less than 308.64
+16.016165,11.512689,cauc,yes,south,no,between 522.32 and 783.48
+13.866799,1.4351699,cauc,yes,midwest,no,less than 308.64
+14.006241,13.841666,afam,no,northeast,no,greater than 783.48
+16.02328,7.9247665,cauc,yes,south,no,greater than 783.48
+7.9210753,42.996937,cauc,no,west,no,greater than 783.48
+14.00284,25.046772,afam,yes,south,no,between 522.32 and 783.48
+13.924124,42.030094,cauc,yes,south,no,greater than 783.48
+12.036769,22.557186,cauc,yes,midwest,no,greater than 783.48
+11.03043,16.646025,cauc,yes,midwest,no,between 522.32 and 783.48
+13.930993,1.3340639,cauc,yes,midwest,no,less than 308.64
+18.132051,8.919265,cauc,yes,south,no,greater than 783.48
+14.014788,-1.5857579,afam,yes,northeast,no,less than 308.64
+13.968851,7.963022,cauc,no,northeast,no,between 308.64 and 522.32
+13.930797,30.49692,cauc,yes,midwest,no,between 522.32 and 783.48
+9.016317,6.7540607,cauc,no,south,no,between 308.64 and 522.32
+16.005756,19.38413,cauc,yes,midwest,no,between 522.32 and 783.48
+12.005506,20.48264,cauc,yes,midwest,no,between 522.32 and 783.48
+14.943997,8.297846,cauc,yes,west,no,greater than 783.48
+11.179428,21.09111,cauc,no,south,no,between 308.64 and 522.32
+14.107439,10.152331,cauc,yes,midwest,no,between 308.64 and 522.32
+17.018084,39.367496,cauc,yes,midwest,no,greater than 783.48
+11.968464,16.519978,cauc,yes,south,no,greater than 783.48
+11.919589,34.08915,afam,yes,northeast,no,between 522.32 and 783.48
+11.995494,16.761106,cauc,yes,south,no,between 522.32 and 783.48
+18.107376,3.477442,cauc,yes,south,no,between 308.64 and 522.32
+10.007099,31.77572,cauc,yes,midwest,no,greater than 783.48
+13.076148,17.017208,afam,no,midwest,no,between 308.64 and 522.32
+17.031643,1.5748801,cauc,yes,northeast,no,between 308.64 and 522.32
+11.074119,22.815752,cauc,yes,south,no,greater than 783.48
+11.943942,28.432575,afam,yes,south,no,between 308.64 and 522.32
+13.9965105,3.1252356,cauc,yes,south,no,less than 308.64
+11.96195,8.748834,afam,no,south,no,between 308.64 and 522.32
+12.002913,0.7201829,cauc,yes,south,no,less than 308.64
+11.997051,32.552494,cauc,no,south,no,greater than 783.48
+10.003547,30.370699,cauc,no,northeast,no,between 308.64 and 522.32
+15.974581,16.938805,cauc,yes,midwest,no,greater than 783.48
+17.07989,21.177845,cauc,yes,west,no,greater than 783.48
+14.859552,17.66321,cauc,yes,south,no,greater than 783.48
+13.989782,26.024298,cauc,yes,northeast,no,between 522.32 and 783.48
+12.896499,4.100078,cauc,yes,midwest,yes,less than 308.64
+12.03445,-3.7804546,cauc,yes,northeast,yes,less than 308.64
+14.005606,16.057428,cauc,yes,northeast,no,greater than 783.48
+13.991846,4.31224,cauc,yes,west,no,between 308.64 and 522.32
+17.909546,2.571595,cauc,yes,south,no,between 308.64 and 522.32
+10.998502,7.2108564,cauc,yes,south,no,between 308.64 and 522.32
+9.95498,28.805454,cauc,no,south,no,greater than 783.48
+12.924949,31.952784,cauc,yes,south,no,greater than 783.48
+16.014288,16.739958,cauc,yes,midwest,no,greater than 783.48
+12.018462,10.898669,cauc,yes,south,no,greater than 783.48
+12.930702,16.759464,cauc,yes,midwest,no,between 522.32 and 783.48
+17.031574,24.116772,cauc,no,south,no,greater than 783.48
+13.986257,-1.9200877,cauc,yes,midwest,no,less than 308.64
+14.00301,32.441906,cauc,yes,west,no,greater than 783.48
+13.983777,21.02238,cauc,yes,northeast,no,between 522.32 and 783.48
+13.983447,-0.07285064,cauc,yes,midwest,no,less than 308.64

@@ -1,0 +1,17 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+11.99735,26.60922,cauc,no,south,no,between 308.64 and 522.32
+14.026634,29.59569,cauc,yes,south,no,greater than 783.48
+-0.91926384,5.4643908,cauc,no,south,no,between 308.64 and 522.32
+12.03188,17.895653,cauc,no,west,yes,between 308.64 and 522.32
+12.976553,15.803579,cauc,yes,south,no,between 522.32 and 783.48
+14.651599,8.756291,cauc,yes,west,no,between 522.32 and 783.48
+7.0174828,12.185652,cauc,no,midwest,yes,between 522.32 and 783.48
+13.090008,27.167284,cauc,yes,midwest,no,between 308.64 and 522.32
+14.920573,13.768617,cauc,yes,west,no,between 308.64 and 522.32
+16.042133,13.714481,cauc,yes,midwest,no,between 308.64 and 522.32
+12.029414,13.130637,cauc,yes,west,no,between 522.32 and 783.48
+14.913756,9.168927,cauc,yes,west,no,between 308.64 and 522.32
+12.007868,23.641975,cauc,yes,south,no,less than 308.64
+15.20112,13.337892,cauc,yes,midwest,no,between 308.64 and 522.32
+17.494375,38.379,cauc,yes,midwest,no,between 522.32 and 783.48
+13.772769,19.107903,cauc,yes,west,yes,less than 308.64

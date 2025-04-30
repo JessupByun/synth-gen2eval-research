@@ -1,0 +1,33 @@
+education,experience,ethnicity,smsa,region,parttime,wage
+17.038769,19.118387,cauc,yes,midwest,no,greater than 783.48
+12.012846,20.44282,cauc,yes,midwest,no,less than 308.64
+11.980678,23.125988,cauc,no,northeast,no,less than 308.64
+12.000799,2.6778722,cauc,no,northeast,no,between 522.32 and 783.48
+12.041403,14.427877,cauc,no,northeast,no,between 308.64 and 522.32
+16.04987,-11.189744,cauc,yes,northeast,no,between 522.32 and 783.48
+10.884354,2.9981735,cauc,yes,south,no,between 522.32 and 783.48
+12.00109,11.61613,cauc,yes,midwest,no,between 308.64 and 522.32
+16.153984,18.41452,cauc,yes,midwest,no,between 522.32 and 783.48
+17.903614,23.808044,cauc,yes,west,no,greater than 783.48
+15.940405,4.744534,cauc,yes,northeast,no,less than 308.64
+15.988728,38.74867,cauc,yes,midwest,no,greater than 783.48
+12.026309,33.342827,cauc,yes,northeast,no,between 308.64 and 522.32
+16.040874,11.920029,cauc,yes,northeast,no,greater than 783.48
+12.011551,7.439455,cauc,yes,midwest,no,less than 308.64
+8.049087,11.470606,cauc,yes,south,no,greater than 783.48
+13.916609,31.743446,cauc,no,south,no,between 308.64 and 522.32
+11.9956,34.272316,cauc,no,midwest,no,less than 308.64
+8.226497,35.696342,cauc,yes,midwest,no,between 522.32 and 783.48
+12.007645,50.868214,cauc,yes,south,no,between 308.64 and 522.32
+16.086908,23.58668,cauc,no,south,no,less than 308.64
+12.059135,5.5241303,afam,yes,west,no,less than 308.64
+16.041012,11.444836,cauc,yes,northeast,no,less than 308.64
+12.984351,9.610963,cauc,no,south,no,between 522.32 and 783.48
+13.1007,13.718838,cauc,yes,midwest,no,between 522.32 and 783.48
+11.998789,10.978827,cauc,yes,south,no,greater than 783.48
+8.520914,45.928757,cauc,yes,midwest,no,less than 308.64
+15.944411,1.1697887,cauc,yes,south,no,between 522.32 and 783.48
+12.029672,28.703178,cauc,yes,south,no,less than 308.64
+12.001419,22.756292,cauc,no,midwest,no,between 522.32 and 783.48
+12.021374,70.48678,cauc,yes,midwest,no,between 522.32 and 783.48
+11.065368,16.24192,cauc,no,northeast,no,between 522.32 and 783.48

@@ -1,0 +1,9 @@
+city,area,rooms,bathroom,parking_spaces,floor,animal,furniture,hoa,total
+Rio de Janeiro,168.3541,4.0127625,2.0002067,3.9025574,23.060797,accept,not furnished,1834.6223,greater than 6768.0
+Campinas,95.84035,4.0053377,0.97075087,0.9668995,7.637528,accept,furnished,-21.081541,less than 2061.75
+Sao Paulo,360.45383,2.0107486,6.0752378,4.050537,55.701134,accept,furnished,809.9739,between 2061.75 and 3581.5
+Rio de Janeiro,82.86998,2.9861605,1.0084046,1.9795976,41.39378,accept,not furnished,1602.2186,between 2061.75 and 3581.5
+Sao Paulo,243.53462,3.0111308,1.9935875,1.0137806,4.0853844,accept,furnished,1361.5939,greater than 6768.0
+Belo Horizonte,215.31238,3.981451,2.0047107,0.94357795,0.7763533,accept,not furnished,5958.287,between 2061.75 and 3581.5
+Sao Paulo,443.66406,2.9638326,5.937902,1.0044768,6.494907,accept,furnished,2441.1536,less than 2061.75
+Sao Paulo,183.11264,2.9822774,1.068274,1.0194585,9.1246195,accept,furnished,942.4377,between 2061.75 and 3581.5

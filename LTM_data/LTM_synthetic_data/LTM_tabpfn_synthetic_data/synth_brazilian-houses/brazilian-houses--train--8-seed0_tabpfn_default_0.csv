@@ -1,0 +1,9 @@
+city,area,rooms,bathroom,parking_spaces,floor,animal,furniture,hoa,total
+Porto Alegre,82.51128,0.9879989,0.9857247,-0.007534704,0.029797541,accept,not furnished,161.124,less than 2061.75
+Sao Paulo,65.47805,2.9972658,1.0021181,1.0035697,8.0375185,accept,not furnished,2203.0977,between 2061.75 and 3581.5
+Porto Alegre,394.44443,3.9919574,3.0041764,4.009043,6.4056354,accept,not furnished,2427.4937,between 2061.75 and 3581.5
+Sao Paulo,252.25827,3.9991262,3.0097404,1.0296048,3.7380393,accept,not furnished,1508.6854,greater than 6768.0
+Belo Horizonte,246.33908,4.0092406,2.0054617,1.9997344,11.23953,accept,not furnished,1457.1454,greater than 6768.0
+Belo Horizonte,17.502913,0.9897106,0.9862902,1.0065881,0.9356328,accept,not furnished,262.64163,less than 2061.75
+Rio de Janeiro,10.258405,4.0159492,2.3515143,0.37832946,0.16291896,accept,not furnished,1078.3394,between 2061.75 and 3581.5
+Belo Horizonte,196.17369,2.9946923,1.9971907,1.0023854,0.28695703,accept,not furnished,396.33347,less than 2061.75
