@@ -1,0 +1,9 @@
+class,largest_spot_size,spot_distribution,activity,evolution,previous_activity,complex,complex_path,area,area_largest,c_class_flares
+H,R,X,0.99955255,2.0000043,1,2.0012999,2.0016003,1,1,greater than 0.0
+B,A,I,1.0008787,2.0000558,1,1.0001036,2.0016909,1,1,greater than 0.0
+H,R,X,1.999172,1.9999909,1,1.0012577,2.0022042,1,1,greater than 0.0
+H,A,X,0.999672,1.9999738,1,2.0002508,1.9997351,1,1,greater than 0.0
+B,R,I,0.99686414,1.9999994,1,1.9971195,0.9650867,1,1,greater than 0.0
+B,A,O,1.001655,1.9992985,1,0.99882066,2.0014336,1,1,greater than 0.0
+E,S,C,2.01448,2.9968464,1,2.0036733,1.9993722,1,1,greater than 0.0
+H,S,X,0.9990858,2.0000627,1,2.002345,1.9996395,1,1,greater than 0.0

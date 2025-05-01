@@ -1,0 +1,9 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G3
+GP,M,14.906425,U,GT3,T,1.0060952,3.9382124,other,teacher,reputation,mother,1.9980779,1.9860898,1.0483788,no,no,no,yes,yes,yes,yes,no,4.9946756,3.0049877,3.0279558,1.9967448,4.01755,2.023497,-1.2973425,less than 10.0
+MS,M,18.003365,R,GT3,T,3.9930656,0.69781387,services,services,course,father,3.0088487,0.9960054,-0.0014258159,no,yes,no,no,yes,yes,yes,no,2.9955833,2.9974744,0.9654256,2.9771569,1.5495826,5.0020437,-0.00458814,less than 10.0
+MS,M,14.974067,R,LE3,T,2.0100245,0.9997716,services,other,reputation,father,1.6129926,2.9802432,0.0001969991,no,yes,no,yes,yes,no,yes,no,4.0012836,1.9970694,4.383929,4.0084486,2.973947,5.011824,6.9448347,greater than 14.0
+MS,M,18.003246,R,LE3,T,4.025617,3.991384,health,other,course,mother,1.997461,0.98710865,-0.00028721488,no,no,no,yes,yes,yes,yes,no,4.998836,4.001332,3.020555,3.0041506,2.0256212,5.012208,0.0020261738,between 10.0 and 12.0
+GP,M,17.999443,U,GT3,T,2.009096,3.0068355,health,teacher,home,other,1.9865147,0.9999715,-0.00030717772,no,no,no,yes,no,no,yes,no,4.9934072,3.997997,5.0994954,2.0083985,3.9945207,5.02374,0.038963486,greater than 14.0
+MS,M,17.010294,R,GT3,T,1.6396849,2.0101206,other,other,course,other,2.9994292,0.99882853,0.0009744841,no,no,no,yes,yes,yes,no,no,3.995591,4.0084815,3.2316928,3.0115168,2.9837558,5.008261,-0.8911722,between 10.0 and 12.0
+MS,F,18.001595,R,GT3,T,2.0158117,0.9960475,other,other,reputation,mother,3.0152714,3.0285232,1.0187583,no,yes,no,no,yes,no,yes,no,4.998916,4.002318,1.9803953,2.99066,1.994849,2.0200083,9.886049,greater than 14.0
+GP,M,18.000896,U,GT3,T,3.012946,1.9935904,at_home,other,home,mother,1.9995217,0.9979664,0.0007640561,no,yes,no,no,yes,no,yes,no,3.0076168,3.0035708,3.976596,2.0009334,4.985934,4.993986,9.952312,between 10.0 and 12.0

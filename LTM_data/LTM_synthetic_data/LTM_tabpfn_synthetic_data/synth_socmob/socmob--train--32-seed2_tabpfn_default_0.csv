@@ -1,0 +1,33 @@
+fathers_occupation,sons_occupation,family_structure,race,counts_for_sons_first_occupation,counts_for_sons_current_occupation
+Service_Worker,Clerk,intact,black,-0.19638707,less than 0.6
+Salesman-Retail,Operative-Nonmanufacturing,intact,white,43.81364,greater than 14.6
+Farm_Laborer,Craftsman-Construction,nonintact,white,1.4269074,greater than 14.6
+Professional-Salaried,Farm_Laborer,nonintact,black,1.4169805,between 0.6 and 3.3
+Clerk,Clerk,intact,white,14.8099165,between 3.3 and 14.6
+Clerk,Clerk,intact,white,1.271316,between 0.6 and 3.3
+Farmer/Farm_Manager,Farm_Laborer,intact,white,184.85495,greater than 14.6
+Clerk,Salesman-Retail,intact,white,155.87177,greater than 14.6
+Salesman-Nonretail,Proprietor,intact,white,0.062334795,between 3.3 and 14.6
+Laborer-Manufacturing,Craftsman-Construction,intact,white,0.05469264,between 0.6 and 3.3
+Professional-Salaried,Professional_Self-Employed,intact,black,6.0244503,greater than 14.6
+Clerk,Salesman-Retail,nonintact,white,1.1995732,between 0.6 and 3.3
+Operative-Nonmanufacturing,Farm_Laborer,nonintact,white,6.2217956,between 0.6 and 3.3
+Craftsman-Manufacturing,Manager,intact,white,91.024864,greater than 14.6
+Service_Worker,Craftsman-Manufacturing,intact,white,130.43748,greater than 14.6
+Laborer-Manufacturing,Salesman-Nonretail,intact,white,138.63599,greater than 14.6
+Craftsman-Construction,Salesman-Nonretail,intact,black,12.188333,less than 0.6
+Professional-Salaried,Farmer/Farm_Manager,nonintact,black,23.38084,greater than 14.6
+Craftsman-Construction,Salesman-Nonretail,nonintact,white,6.5091968,greater than 14.6
+Manager,Farmer/Farm_Manager,nonintact,white,3.0238872,less than 0.6
+Professional-Salaried,Craftsman-Manufacturing,nonintact,white,0.89521724,greater than 14.6
+Operative-Manufacturing,Proprietor,nonintact,white,3.9437015,greater than 14.6
+Craftsman-Construction,Professional_Self-Employed,nonintact,white,1.6675129,greater than 14.6
+Proprietor,Professional-Salaried,nonintact,white,12.99407,greater than 14.6
+Laborer-Nonmanufacturing,Professional-Salaried,nonintact,white,17.88317,greater than 14.6
+Laborer-Nonmanufacturing,Service_Worker,nonintact,white,135.34042,greater than 14.6
+Operative-Nonmanufacturing,Service_Worker,nonintact,white,15.865395,greater than 14.6
+Service_Worker,Manager,intact,white,51.64321,greater than 14.6
+Farmer/Farm_Manager,Laborer-Manufacturing,nonintact,white,3.0641243,between 3.3 and 14.6
+Proprietor,Salesman-Retail,nonintact,white,2.712535,greater than 14.6
+Craftsman-Construction,Farmer/Farm_Manager,intact,white,40.204662,greater than 14.6
+Service_Worker,Salesman-Nonretail,nonintact,white,21.32794,greater than 14.6

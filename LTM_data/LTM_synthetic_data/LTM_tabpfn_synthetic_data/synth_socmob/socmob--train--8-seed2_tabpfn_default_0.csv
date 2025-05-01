@@ -1,0 +1,9 @@
+fathers_occupation,sons_occupation,family_structure,race,counts_for_sons_first_occupation,counts_for_sons_current_occupation
+Professional_Self-Employed,Farmer/Farm_Manager,intact,black,22.054045,greater than 14.6
+Professional_Self-Employed,Salesman-Nonretail,nonintact,black,-0.13231093,between 3.3 and 14.6
+Proprietor,Laborer-Nonmanufacturing,nonintact,black,3.4276917,less than 0.6
+Service_Worker,Operative-Nonmanufacturing,nonintact,black,4.3591332,between 3.3 and 14.6
+Professional_Self-Employed,Farmer/Farm_Manager,intact,black,6.643025,between 3.3 and 14.6
+Clerk,Professional-Salaried,nonintact,white,0.09684856,less than 0.6
+Professional_Self-Employed,Salesman-Nonretail,nonintact,black,0.06351951,less than 0.6
+Proprietor,Farmer/Farm_Manager,nonintact,black,-1.5247358,greater than 14.6

@@ -1,0 +1,129 @@
+fathers_occupation,sons_occupation,family_structure,race,counts_for_sons_first_occupation,counts_for_sons_current_occupation
+Laborer-Manufacturing,Craftsman-Construction,nonintact,white,6.918706,greater than 14.6
+Clerk,Professional-Salaried,nonintact,white,0.2782718,between 0.6 and 3.3
+Salesman-Retail,Manager,intact,white,-0.18424982,less than 0.6
+Craftsman-Construction,Operative-Manufacturing,intact,black,0.27431983,less than 0.6
+Operative-Nonmanufacturing,Operative-Nonmanufacturing,intact,black,1.1105621,less than 0.6
+Operative-Nonmanufacturing,Craftsmen-Other,nonintact,white,2.2322805,between 0.6 and 3.3
+Craftsman-Construction,Craftsman-Manufacturing,intact,white,6.5133286,greater than 14.6
+Proprietor,Service_Worker,nonintact,black,1.5462294,less than 0.6
+Proprietor,Operative-Manufacturing,intact,black,-0.055916682,less than 0.6
+Proprietor,Professional_Self-Employed,nonintact,white,3.763116,between 3.3 and 14.6
+Craftsman-Construction,Craftsman-Construction,nonintact,black,-0.117146745,less than 0.6
+Clerk,Professional-Salaried,nonintact,black,3.4097602,greater than 14.6
+Professional_Self-Employed,Professional_Self-Employed,nonintact,black,-0.015979469,less than 0.6
+Service_Worker,Farm_Laborer,intact,black,0.026045006,less than 0.6
+Craftsman-Manufacturing,Manager,intact,black,0.9616558,less than 0.6
+Craftsman-Manufacturing,Proprietor,intact,white,6.689663,between 3.3 and 14.6
+Salesman-Nonretail,Service_Worker,nonintact,white,10.857749,greater than 14.6
+Craftsman-Construction,Operative-Nonmanufacturing,intact,black,2.276545,greater than 14.6
+Service_Worker,Operative-Nonmanufacturing,nonintact,white,4.476841,less than 0.6
+Salesman-Nonretail,Craftsman-Construction,nonintact,black,2.891828,greater than 14.6
+Craftsman-Manufacturing,Operative-Nonmanufacturing,intact,black,-0.08172233,between 0.6 and 3.3
+Salesman-Nonretail,Craftsman-Construction,nonintact,white,-62.992496,less than 0.6
+Craftsmen-Other,Proprietor,nonintact,black,28.282173,greater than 14.6
+Salesman-Retail,Salesman-Nonretail,intact,black,8.877914,greater than 14.6
+Craftsmen-Other,Salesman-Retail,nonintact,black,13.808762,between 3.3 and 14.6
+Salesman-Nonretail,Farm_Laborer,nonintact,white,6.577649,between 3.3 and 14.6
+Salesman-Nonretail,Salesman-Nonretail,intact,white,1.8901674,less than 0.6
+Service_Worker,Professional_Self-Employed,nonintact,white,10.466142,greater than 14.6
+Salesman-Nonretail,Salesman-Nonretail,nonintact,black,0.30123556,between 0.6 and 3.3
+Salesman-Retail,Professional-Salaried,intact,black,4.171036,less than 0.6
+Craftsman-Manufacturing,Salesman-Nonretail,intact,white,12.574409,greater than 14.6
+Farmer/Farm_Manager,Proprietor,nonintact,black,20.348196,between 3.3 and 14.6
+Craftsmen-Other,Craftsman-Construction,nonintact,white,9.786283,between 3.3 and 14.6
+Craftsmen-Other,Farmer/Farm_Manager,nonintact,white,8.374345,greater than 14.6
+Clerk,Manager,intact,black,1.3024831,less than 0.6
+Craftsmen-Other,Professional_Self-Employed,intact,white,37.722675,between 3.3 and 14.6
+Craftsman-Construction,Professional_Self-Employed,nonintact,black,-0.11477525,less than 0.6
+Professional_Self-Employed,Craftsmen-Other,nonintact,black,12.147983,between 3.3 and 14.6
+Operative-Manufacturing,Farm_Laborer,nonintact,white,-0.04377782,less than 0.6
+Craftsman-Manufacturing,Clerk,nonintact,white,24.234182,greater than 14.6
+Farmer/Farm_Manager,Laborer-Manufacturing,nonintact,white,2.1672273,greater than 14.6
+Operative-Manufacturing,Professional_Self-Employed,nonintact,black,0.012625698,less than 0.6
+Farmer/Farm_Manager,Craftsman-Construction,nonintact,black,0.5196562,less than 0.6
+Craftsmen-Other,Laborer-Nonmanufacturing,intact,black,-0.40776932,less than 0.6
+Clerk,Professional-Salaried,nonintact,white,37.69337,greater than 14.6
+Proprietor,Manager,intact,black,0.010711959,less than 0.6
+Salesman-Retail,Operative-Nonmanufacturing,intact,black,-0.0006222129,between 0.6 and 3.3
+Operative-Manufacturing,Farm_Laborer,nonintact,white,12.261807,greater than 14.6
+Farmer/Farm_Manager,Farmer/Farm_Manager,intact,black,11.88059,greater than 14.6
+Professional_Self-Employed,Craftsman-Construction,intact,black,-0.019771963,less than 0.6
+Salesman-Retail,Craftsmen-Other,nonintact,black,5.958097,between 3.3 and 14.6
+Salesman-Nonretail,Farmer/Farm_Manager,intact,black,0.07057731,less than 0.6
+Craftsmen-Other,Operative-Nonmanufacturing,intact,white,1.467014,between 0.6 and 3.3
+Operative-Manufacturing,Craftsman-Construction,nonintact,black,0.02525653,less than 0.6
+Farm_Laborer,Salesman-Nonretail,nonintact,white,17.217873,between 3.3 and 14.6
+Clerk,Proprietor,intact,black,9.246683,between 3.3 and 14.6
+Craftsmen-Other,Manager,intact,black,10.69378,between 3.3 and 14.6
+Professional_Self-Employed,Craftsman-Construction,nonintact,black,10.537355,greater than 14.6
+Operative-Manufacturing,Laborer-Manufacturing,intact,black,0.034389623,less than 0.6
+Operative-Manufacturing,Service_Worker,intact,black,-0.010218777,less than 0.6
+Operative-Manufacturing,Manager,nonintact,white,-0.21061611,less than 0.6
+Laborer-Manufacturing,Craftsman-Construction,intact,white,-0.33685482,less than 0.6
+Operative-Manufacturing,Craftsman-Manufacturing,nonintact,white,0.26868978,between 0.6 and 3.3
+Professional_Self-Employed,Farm_Laborer,intact,white,25.604834,between 3.3 and 14.6
+Laborer-Nonmanufacturing,Professional-Salaried,nonintact,white,1.4026371,between 0.6 and 3.3
+Craftsman-Manufacturing,Craftsman-Manufacturing,intact,black,0.43621695,less than 0.6
+Service_Worker,Clerk,nonintact,black,9.766702,less than 0.6
+Operative-Manufacturing,Professional-Salaried,nonintact,black,-0.05252289,less than 0.6
+Salesman-Retail,Service_Worker,nonintact,black,1.0918614,less than 0.6
+Professional_Self-Employed,Salesman-Retail,nonintact,black,-35.651924,less than 0.6
+Clerk,Craftsman-Manufacturing,nonintact,white,-0.07224464,less than 0.6
+Proprietor,Proprietor,intact,white,0.4817519,less than 0.6
+Operative-Manufacturing,Craftsman-Construction,nonintact,white,14.011085,greater than 14.6
+Craftsman-Manufacturing,Salesman-Retail,intact,black,9.80763,greater than 14.6
+Laborer-Manufacturing,Operative-Nonmanufacturing,intact,black,-0.22353424,less than 0.6
+Salesman-Retail,Professional_Self-Employed,nonintact,white,0.49391794,less than 0.6
+Proprietor,Operative-Nonmanufacturing,nonintact,white,-0.00823665,less than 0.6
+Professional-Salaried,Laborer-Manufacturing,nonintact,white,6.933069,greater than 14.6
+Salesman-Nonretail,Salesman-Retail,nonintact,white,-0.10601595,less than 0.6
+Salesman-Nonretail,Farm_Laborer,nonintact,white,2.5808175,between 0.6 and 3.3
+Professional-Salaried,Operative-Manufacturing,intact,black,0.2579262,less than 0.6
+Professional_Self-Employed,Operative-Manufacturing,intact,black,-0.055520587,between 0.6 and 3.3
+Clerk,Professional-Salaried,intact,white,-0.3583471,less than 0.6
+Craftsman-Construction,Service_Worker,intact,black,1.4775156,greater than 14.6
+Craftsmen-Other,Salesman-Retail,nonintact,white,128.40619,between 3.3 and 14.6
+Professional_Self-Employed,Craftsman-Manufacturing,nonintact,white,-0.11947398,between 0.6 and 3.3
+Laborer-Nonmanufacturing,Salesman-Nonretail,nonintact,black,5.714163,greater than 14.6
+Proprietor,Craftsmen-Other,nonintact,black,1.6081595,less than 0.6
+Salesman-Nonretail,Professional-Salaried,intact,black,2.9891157,between 0.6 and 3.3
+Craftsmen-Other,Craftsman-Manufacturing,nonintact,white,9.420819,between 3.3 and 14.6
+Service_Worker,Professional-Salaried,intact,white,-0.025089163,less than 0.6
+Professional-Salaried,Farm_Laborer,intact,black,-0.13653785,between 0.6 and 3.3
+Professional-Salaried,Farm_Laborer,nonintact,white,2.1181016,greater than 14.6
+Salesman-Retail,Operative-Nonmanufacturing,nonintact,black,7.5517817,greater than 14.6
+Service_Worker,Craftsman-Construction,nonintact,white,0.16616936,less than 0.6
+Salesman-Nonretail,Farm_Laborer,intact,white,2.9590874,between 3.3 and 14.6
+Farmer/Farm_Manager,Salesman-Retail,intact,black,2.4476612,between 0.6 and 3.3
+Service_Worker,Operative-Manufacturing,intact,white,0.034516882,between 0.6 and 3.3
+Service_Worker,Laborer-Manufacturing,intact,white,9.919352,between 3.3 and 14.6
+Farmer/Farm_Manager,Laborer-Nonmanufacturing,intact,white,12.884697,greater than 14.6
+Clerk,Service_Worker,nonintact,white,0.33959723,less than 0.6
+Service_Worker,Salesman-Retail,intact,black,0.10367876,less than 0.6
+Farmer/Farm_Manager,Craftsman-Manufacturing,nonintact,white,13.108975,greater than 14.6
+Craftsman-Manufacturing,Craftsman-Construction,nonintact,black,0.78352773,between 0.6 and 3.3
+Operative-Manufacturing,Professional_Self-Employed,intact,white,2.4779725,between 3.3 and 14.6
+Professional-Salaried,Craftsman-Construction,nonintact,white,5.972817,greater than 14.6
+Proprietor,Operative-Manufacturing,nonintact,white,0.04966678,less than 0.6
+Professional-Salaried,Craftsman-Construction,intact,white,0.9654634,less than 0.6
+Craftsman-Construction,Farmer/Farm_Manager,nonintact,white,7.398604,greater than 14.6
+Farmer/Farm_Manager,Proprietor,intact,white,0.8282464,between 0.6 and 3.3
+Craftsmen-Other,Salesman-Nonretail,intact,white,11.499024,greater than 14.6
+Craftsmen-Other,Craftsman-Construction,nonintact,white,10.55092,between 3.3 and 14.6
+Manager,Craftsman-Manufacturing,nonintact,black,0.06332964,less than 0.6
+Craftsman-Manufacturing,Clerk,nonintact,black,0.0098592155,between 0.6 and 3.3
+Service_Worker,Laborer-Manufacturing,nonintact,white,1.632338,between 0.6 and 3.3
+Salesman-Retail,Laborer-Manufacturing,intact,white,13.302822,greater than 14.6
+Proprietor,Professional_Self-Employed,nonintact,white,0.019662559,between 0.6 and 3.3
+Manager,Manager,nonintact,white,0.39895952,less than 0.6
+Professional_Self-Employed,Farm_Laborer,nonintact,black,18.184042,greater than 14.6
+Proprietor,Professional_Self-Employed,nonintact,white,0.035242368,less than 0.6
+Salesman-Nonretail,Manager,nonintact,black,2.7770624,between 0.6 and 3.3
+Salesman-Nonretail,Salesman-Nonretail,intact,black,2.5410604,between 3.3 and 14.6
+Professional_Self-Employed,Clerk,nonintact,white,-0.21522066,less than 0.6
+Manager,Farmer/Farm_Manager,intact,white,0.4558579,between 3.3 and 14.6
+Manager,Farmer/Farm_Manager,nonintact,black,-0.1071068,less than 0.6
+Farmer/Farm_Manager,Farm_Laborer,nonintact,white,1.7693869,between 0.6 and 3.3
+Clerk,Laborer-Manufacturing,nonintact,white,-0.12930131,less than 0.6
+Proprietor,Craftsman-Manufacturing,nonintact,white,0.05192986,less than 0.6
