@@ -1,0 +1,9 @@
+fathers_occupation,sons_occupation,family_structure,race,counts_for_sons_first_occupation,counts_for_sons_current_occupation
+Craftsman-Manufacturing,Laborer-Manufacturing,intact,white,18.2,greater than 14.6
+Proprietor,Operative-Manufacturing,intact,white,10.5,between 3.3 and 14.6
+Professional-Salaried,Craftsman-Construction,nonintact,white,25.9,greater than 14.6
+Farm_Laborer,Service_Worker,intact,black,3.8,between 3.3 and 14.6
+Operative-Manufacturing,Laborer-Nonmanufacturing,nonintact,white,11.9,between 3.3 and 14.6
+Laborer-Nonmanufacturing,Manager,nonintact,white,6.4,less than 0.6
+Professional_Self-Employed,Operative-Manufacturing,intact,black,1.9,between 3.3 and 14.6
+Clerk,Laborer-Manufacturing,nonintact,white,20.1,greater than 14.6

@@ -1,0 +1,152 @@
+[
+  {
+    "synthetic_file": "student-performance-por--train--128-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column names do not match between real and synthetic data",
+      "Extra columns in synthetic data: {'16', 'mother', '1.1', 'services', 'F', 'yes.2', 'yes.4', 'T', 'other', '0', '2.2', '2.5', '2.3', 'course', 'U', 'yes.1', '2.4', '1', 'no', '2.1', 'GP', 'no.2', 'between 12.0 and 14.0', '0.1', 'GT3', 'yes', '4', '2', 'no.1', 'yes.3', '3'}",
+      "Column school has missing values in synthetic data but not in real data",
+      "Column sex has missing values in synthetic data but not in real data",
+      "Column age has missing values in synthetic data but not in real data",
+      "Column address has missing values in synthetic data but not in real data",
+      "Column famsize has missing values in synthetic data but not in real data",
+      "Column Pstatus has missing values in synthetic data but not in real data",
+      "Column Medu has missing values in synthetic data but not in real data",
+      "Column Fedu has missing values in synthetic data but not in real data",
+      "Column Mjob has missing values in synthetic data but not in real data",
+      "Column Fjob has missing values in synthetic data but not in real data",
+      "Column reason has missing values in synthetic data but not in real data",
+      "Column guardian has missing values in synthetic data but not in real data",
+      "Column traveltime has missing values in synthetic data but not in real data",
+      "Column studytime has missing values in synthetic data but not in real data",
+      "Column failures has missing values in synthetic data but not in real data",
+      "Column schoolsup has missing values in synthetic data but not in real data",
+      "Column famsup has missing values in synthetic data but not in real data",
+      "Column paid has missing values in synthetic data but not in real data",
+      "Column activities has missing values in synthetic data but not in real data",
+      "Column nursery has missing values in synthetic data but not in real data",
+      "Column higher has missing values in synthetic data but not in real data",
+      "Column internet has missing values in synthetic data but not in real data",
+      "Column romantic has missing values in synthetic data but not in real data",
+      "Column famrel has missing values in synthetic data but not in real data",
+      "Column freetime has missing values in synthetic data but not in real data",
+      "Column goout has missing values in synthetic data but not in real data",
+      "Column Dalc has missing values in synthetic data but not in real data",
+      "Column Walc has missing values in synthetic data but not in real data",
+      "Column health has missing values in synthetic data but not in real data",
+      "Column absences has missing values in synthetic data but not in real data",
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--128-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--128-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--8-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--8-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--8-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--32-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--32-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--32-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "student-performance-por--train--64-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column failures has different data type in synthetic data (object) vs real data (int64)",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--64-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--64-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--16-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--16-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  },
+  {
+    "synthetic_file": "student-performance-por--train--16-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column G3 has missing values in synthetic data but not in real data",
+      "Column absences has different data type in synthetic data (object) vs real data (int64)"
+    ]
+  }
+]

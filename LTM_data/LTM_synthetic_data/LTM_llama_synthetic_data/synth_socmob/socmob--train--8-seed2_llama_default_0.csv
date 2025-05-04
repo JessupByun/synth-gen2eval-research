@@ -1,0 +1,9 @@
+fathers_occupation,sons_occupation,family_structure,race,counts_for_sons_first_occupation,counts_for_sons_current_occupation
+Clerk,Professional-Salaried,intact,black,8.1,less than 0.6
+Craftsman-Construction,Professional-Salaried,nonintact,white,2.5,less than 0.6
+Professional_Self-Employed,Professional_Self-Employed,intact,black,11.9,greater than 14.6
+Salesman-Nonretail,Salesman-Nonretail,intact,white,20.8,greater than 14.6
+Professional_Self-Employed,Professional-Salaried,nonintact,black,0.9,less than 0.6
+Service_Worker,Farm_Laborer,nonintact,black,4.2,between 0.6 and 3.3
+Clerk,Operative-Nonmanufacturing,nonintact,white,1.6,between 0.6 and 3.3
+Proprietor,Laborer-Nonmanufacturing,intact,black,0.7,less than 0.6

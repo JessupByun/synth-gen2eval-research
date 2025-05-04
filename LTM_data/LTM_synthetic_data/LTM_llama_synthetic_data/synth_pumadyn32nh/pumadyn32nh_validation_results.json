@@ -1,0 +1,175 @@
+[
+  {
+    "synthetic_file": "pumadyn32nh--train--8-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--8-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--8-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db5 is empty in synthetic data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--128-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column dm4 has missing values in synthetic data but not in real data",
+      "Column dm5 has missing values in synthetic data but not in real data",
+      "Column da1 has missing values in synthetic data but not in real data",
+      "Column da2 has missing values in synthetic data but not in real data",
+      "Column da3 has missing values in synthetic data but not in real data",
+      "Column da4 has missing values in synthetic data but not in real data",
+      "Column da5 has missing values in synthetic data but not in real data",
+      "Column db1 has missing values in synthetic data but not in real data",
+      "Column db2 has missing values in synthetic data but not in real data",
+      "Column db3 has missing values in synthetic data but not in real data",
+      "Column db4 has missing values in synthetic data but not in real data",
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column dm3 has different data type in synthetic data (object) vs real data (float64)",
+      "Column dm4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column dm5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column da2 has different data type in synthetic data (object) vs real data (float64)",
+      "Column da5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db1 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db3 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--64-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--128-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--64-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--64-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db1 has missing values in synthetic data but not in real data",
+      "Column db2 has missing values in synthetic data but not in real data",
+      "Column db3 has missing values in synthetic data but not in real data",
+      "Column db4 has missing values in synthetic data but not in real data",
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column da5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db1 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db3 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--128-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--32-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--32-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--32-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--16-seed0_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--16-seed1_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column db5 has missing values in synthetic data but not in real data",
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column thetadd6 is empty in synthetic data",
+      "Column db4 has different data type in synthetic data (object) vs real data (float64)",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)",
+      "Column thetadd6 has different data type in synthetic data (float64) vs real data (object)"
+    ]
+  },
+  {
+    "synthetic_file": "pumadyn32nh--train--16-seed2_llama_default_0",
+    "validation_passed": false,
+    "issues": [
+      "Column thetadd6 has missing values in synthetic data but not in real data",
+      "Column db5 has different data type in synthetic data (object) vs real data (float64)"
+    ]
+  }
+]

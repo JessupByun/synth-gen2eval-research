@@ -1,0 +1,79 @@
+[
+  {
+    "synthetic_file": "grid-stability--train--8-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--8-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--8-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--32-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--32-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--32-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--128-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--64-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--128-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--64-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": [
+      "Could not find corresponding real data for grid-stability--train--64-seed1_llama_default_0"
+    ]
+  },
+  {
+    "synthetic_file": "grid-stability--train--64-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--128-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--16-seed0_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--16-seed1_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  },
+  {
+    "synthetic_file": "grid-stability--train--16-seed2_llama_default_0",
+    "validation_passed": true,
+    "issues": []
+  }
+]

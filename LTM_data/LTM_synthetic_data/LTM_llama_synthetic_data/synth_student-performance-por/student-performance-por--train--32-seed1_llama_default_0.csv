@@ -1,0 +1,30 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G3
+GP,F,17,U,GT3,T,4,2,services,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,2,4,0,between 12.0 and 14.0
+MS,M,18,R,LE3,T,3,1,at_home,other,course,father,2,1,0,no,no,no,yes,no,yes,yes,4,4,3,1,3,5,6,less than 10.0,
+GP,F,17,U,GT3,T,1,1,other,other,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,1,3,2,between 10.0 and 12.0
+GP,M,16,U,LE3,T,2,2,services,services,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,1,2,2,1,3,5,6,between 12.0 and 14.0
+MS,F,18,R,GT3,T,3,3,health,other,course,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,3,2,4,1,4,1,8,greater than 14.0
+GP,F,17,U,GT3,T,4,3,services,other,reputation,father,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,2,4,between 10.0 and 12.0
+MS,M,17,U,GT3,T,1,1,at_home,services,other,mother,3,2,0,no,no,no,no,yes,yes,yes,yes,5,1,3,3,3,1,0,between 10.0 and 12.0
+GP,F,18,U,LE3,T,4,3,health,services,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,3,2,4,1,1,2,8,greater than 14.0
+GP,F,16,U,GT3,T,3,3,services,other,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,3,4,0,between 12.0 and 14.0
+MS,F,18,R,LE3,A,3,2,other,other,course,other,2,3,2,no,yes,no,no,no,no,no,yes,3,3,2,1,1,2,6,between 10.0 and 12.0
+GP,M,16,U,LE3,T,1,1,services,other,course,mother,1,2,2,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,between 10.0 and 12.0
+GP,M,15,U,GT3,T,4,3,teacher,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,greater than 14.0
+MS,F,16,U,GT3,A,3,2,services,at_home,course,mother,2,2,2,no,yes,no,yes,yes,yes,no,yes,2,5,5,1,1,1,8,less than 10.0
+GP,F,18,R,GT3,T,3,1,other,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,4,less than 10.0
+GP,F,16,U,GT3,T,3,1,services,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,4,3,3,1,2,5,0,between 10.0 and 12.0
+GP,F,17,U,GT3,T,2,2,other,other,home,mother,2,2,0,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,16,between 10.0 and 12.0
+MS,M,18,U,LE3,T,1,3,at_home,services,course,mother,1,1,0,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,0,less than 10.0
+GP,F,16,U,GT3,T,2,2,services,services,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,1,2,2,1,3,5,6,between 12.0 and 14.0
+GP,F,17,U,GT3,T,1,1,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,no,no,4,4,4,1,3,1,0,greater than 14.0
+GP,F,16,U,GT3,T,2,2,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,5,4,4,1,1,5,0,between 10.0 and 12.0
+GP,M,16,U,LE3,T,1,1,services,other,course,mother,1,2,2,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,5,0,between 10.0 and 12.0
+GP,M,15,U,GT3,T,4,3,teacher,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,1,0,greater than 14.0
+MS,F,16,U,GT3,A,3,2,services,at_home,course,mother,2,2,2,no,yes,no,yes,yes,yes,no,yes,2,5,5,1,1,1,8,less than 10.0
+GP,F,18,R,GT3,T,3,1,other,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,4,4,less than 10.0
+GP,F,16,U,GT3,T,3,1,services,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,4,3,3,1,2,5,0,between 10.0 and 12.0
+GP,F,17,U,GT3,T,2,2,other,other,home,mother,2,2,0,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,3,16,between 10.0 and 12.0
+MS,M,18,U,LE3,T,1,3,at_home,services,course,mother,1,1,0,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,3,0,less than 10.0
+GP,F,16,U,GT3,T,2,2,services,services,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,1,2,2,1,3,5,6,between 12.0 and 14.0
+GP,F,17,U,GT3,T,1,1,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,no,no,4,4,4,1,3,1,0,greater than 14.0
