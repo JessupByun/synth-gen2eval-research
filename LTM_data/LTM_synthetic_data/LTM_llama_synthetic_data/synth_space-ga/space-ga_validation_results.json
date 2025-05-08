@@ -1,33 +1,18 @@
 [
   {
     "synthetic_file": "space-ga--train--128-seed2_llama_default_0",
-    "validation_passed": false,
-    "issues": [
-      "Column xcoord has different data type in synthetic data (object) vs real data (float64)"
-    ]
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "space-ga--train--128-seed0_llama_default_0",
-    "validation_passed": false,
-    "issues": [
-      "Column names do not match between real and synthetic data",
-      "Extra columns in synthetic data: {'9.2573', '-84040193', 'greater than -0.441693965696886', '10.1947', '9.4774', '43289121', '12.3245'}",
-      "Column pop has missing values in synthetic data but not in real data",
-      "Column education has missing values in synthetic data but not in real data",
-      "Column houses has missing values in synthetic data but not in real data",
-      "Column income has missing values in synthetic data but not in real data",
-      "Column xcoord has missing values in synthetic data but not in real data",
-      "Column ycoord has missing values in synthetic data but not in real data",
-      "Column ln_votes_pop has missing values in synthetic data but not in real data",
-      "Column xcoord has different data type in synthetic data (object) vs real data (float64)"
-    ]
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "space-ga--train--128-seed1_llama_default_0",
-    "validation_passed": false,
-    "issues": [
-      "Column xcoord has different data type in synthetic data (object) vs real data (float64)"
-    ]
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "space-ga--train--16-seed0_llama_default_0",
@@ -61,22 +46,18 @@
   },
   {
     "synthetic_file": "space-ga--train--64-seed2_llama_default_0",
-    "validation_passed": true,
+    "validation_passed": false,
     "issues": []
   },
   {
     "synthetic_file": "space-ga--train--64-seed1_llama_default_0",
-    "validation_passed": false,
-    "issues": [
-      "Column xcoord has different data type in synthetic data (object) vs real data (float64)"
-    ]
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "space-ga--train--64-seed0_llama_default_0",
-    "validation_passed": false,
-    "issues": [
-      "Column xcoord has different data type in synthetic data (object) vs real data (float64)"
-    ]
+    "validation_passed": true,
+    "issues": []
   },
   {
     "synthetic_file": "space-ga--train--32-seed1_llama_default_0",
