@@ -1,0 +1,11 @@
+,roc_auc
+Gen-LRA,
+DCR,0.7237500000000001
+DPI,0.44759375
+LOGAN,0.5396875
+DCR-Diff,0.6550625
+DOMIAS,
+MC,0.6770625
+Density Estimator,0.6490625
+Local Neighborhood,0.5
+Classifier,0.6455625
