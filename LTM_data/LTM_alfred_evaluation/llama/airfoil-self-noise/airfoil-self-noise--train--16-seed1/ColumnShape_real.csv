@@ -1,0 +1,24 @@
+Column,Metric,Score
+frequency,TVComplement,0.7916666666666667
+angle_of_attack,TVComplement,0.7500002499999374
+chord_length,TVComplement,0.875
+free_stream_velocity,TVComplement,0.9375
+displacement_thickness,TVComplement,0.583333638888787
+sound_pressure,TVComplement,0.8541666666666666
+All,Average Shape,0.7986112037036763
+frequency and angle_of_attack,ContingencySimilarity,0.625
+frequency and chord_length,ContingencySimilarity,0.5625
+frequency and free_stream_velocity,ContingencySimilarity,0.5000000000000001
+frequency and displacement_thickness,ContingencySimilarity,0.4375000000000001
+frequency and sound_pressure,ContingencySimilarity,0.5625
+angle_of_attack and chord_length,ContingencySimilarity,0.625
+angle_of_attack and free_stream_velocity,ContingencySimilarity,0.5000000000000001
+angle_of_attack and displacement_thickness,ContingencySimilarity,0.5
+angle_of_attack and sound_pressure,ContingencySimilarity,0.6875
+chord_length and free_stream_velocity,ContingencySimilarity,0.6458333333333333
+chord_length and displacement_thickness,ContingencySimilarity,0.45833333333333337
+chord_length and sound_pressure,ContingencySimilarity,0.6041666666666667
+free_stream_velocity and displacement_thickness,ContingencySimilarity,0.4375
+free_stream_velocity and sound_pressure,ContingencySimilarity,0.6875
+displacement_thickness and sound_pressure,ContingencySimilarity,0.5000000000000001
+All Pairs,Average Corr Similarity,0.5555555555555556

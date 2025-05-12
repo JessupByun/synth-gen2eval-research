@@ -1,0 +1,48 @@
+Column,Metric,Score
+sex,TVComplement,0.7439903846153846
+length,TVComplement,0.2500029999909983
+diameter,TVComplement,0.21875253845509313
+height,TVComplement,0.3125015384591716
+whole_weight,KSComplement,0.8028846153846154
+shucked_weight,KSComplement,0.7548076923076923
+cisvera_weight,KSComplement,0.7896634615384616
+shell_weight,KSComplement,0.7548076923076923
+rings,TVComplement,0.8725961538461539
+All,Average Shape,0.6111118974339181
+sex and length,ContingencySimilarity,0.140625
+sex and diameter,ContingencySimilarity,0.09375
+sex and height,ContingencySimilarity,0.2343750000000001
+sex and whole_weight,ContingencySimilarity,0.4963942307692307
+sex and shucked_weight,ContingencySimilarity,0.4326923076923077
+sex and cisvera_weight,ContingencySimilarity,0.45072115384615374
+sex and shell_weight,ContingencySimilarity,0.35697115384615385
+sex and rings,ContingencySimilarity,0.7439903846153846
+length and diameter,ContingencySimilarity,0.078125
+length and height,ContingencySimilarity,1.1102230246251565e-16
+length and whole_weight,ContingencySimilarity,0.1875
+length and shucked_weight,ContingencySimilarity,0.0625
+length and cisvera_weight,ContingencySimilarity,0.109375
+length and shell_weight,ContingencySimilarity,0.03125000000000011
+length and rings,ContingencySimilarity,0.125
+diameter and height,ContingencySimilarity,1.1102230246251565e-16
+diameter and whole_weight,ContingencySimilarity,0.1250000000000001
+diameter and shucked_weight,ContingencySimilarity,0.109375
+diameter and cisvera_weight,ContingencySimilarity,0.140625
+diameter and shell_weight,ContingencySimilarity,0.04687500000000011
+diameter and rings,ContingencySimilarity,0.046875
+height and whole_weight,ContingencySimilarity,0.1250000000000001
+height and shucked_weight,ContingencySimilarity,0.140625
+height and cisvera_weight,ContingencySimilarity,0.078125
+height and shell_weight,ContingencySimilarity,0.140625
+height and rings,ContingencySimilarity,0.203125
+whole_weight and shucked_weight,CorrelationSimilarity,0.9921395861897836
+whole_weight and cisvera_weight,CorrelationSimilarity,0.9914808738659358
+whole_weight and shell_weight,CorrelationSimilarity,0.9885750117491989
+whole_weight and rings,ContingencySimilarity,0.40264423076923084
+shucked_weight and cisvera_weight,CorrelationSimilarity,0.9911783825990601
+shucked_weight and shell_weight,CorrelationSimilarity,0.9614217102174724
+shucked_weight and rings,ContingencySimilarity,0.21875
+cisvera_weight and shell_weight,CorrelationSimilarity,0.9702164081463336
+cisvera_weight and rings,ContingencySimilarity,0.40384615384615374
+shell_weight and rings,ContingencySimilarity,0.23317307692307687
+All Pairs,Average Corr Similarity,0.32924846291876325
